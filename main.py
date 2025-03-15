@@ -113,7 +113,7 @@ for event_data in events_data:
     event.alarms.append(alarm_at_start)
     cal.events.add(event)
 
-# Write the calendar to an .ics file.
+# Write the calendar to an .ics file using serialize() method
 with open("course_schedule.ics", "w") as f:
-    f.write(str(cal))
+    f.write(cal.serialize())
 print("ICS file 'course_schedule.ics' has been generated.")

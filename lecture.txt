@@ -1,0 +1,987 @@
+Day 1
+Total Content Duration: ~53 minutes
+Get started with the course & create your first basic website!
+S1L1 - Welcome to This Course! [Day 1]
+S1L2 - What Is "Web Development" & How Does The Web Work? [Day 1]
+S1L3 - The Three Key Programming Languages [Day 1]
+S1L4 - How The Web Works: A Deep Dive [Day 1]
+S1L5 - What About The "www"? [Day 1]
+S1L6 - The 100 Days of Code Challenge! [Day 1]
+S1L7 - How To Get The Most Out Of This Course [Day 1]
+S1L8 - Stuck in the Course? We Got you Covered! [Day 1]
+S1L9 - How To Use The Attached Code [Day 1]
+S2L10 - Module Introduction [Day 1]
+S2L11 - How to Create a Website [Day 1]
+S2L12 - Creating our First HTML Page [Day 1]
+Day 2
+Total Content Duration: ~48 minutes
+Set up a proper local development environment and dive deeper into HTML. You'll also get started with CSS
+already!
+S2L13 - Setting Up a Development Environment [Day 2]
+S2L14 - Why Visual Studio Code? [Day 2]
+S2L15 - Understanding HTML Elements [Day 2]
+S2L16 - Which HTML Elements Exist? [Day 2]
+S2L17 - Adding Another HTML Element [Day 2]
+S2L18 - Exploring HTML Attributes [Day 2]
+S2 Quiz 1 - Learning Check: HTML Basics [Day 2]
+S2L19 - Getting Started with CSS (Day 2)
+S2L20 - More CSS Styling [Day 2]
+Day 3
+Total Content Duration: ~59 minutes
+Time to dive deeper into CSS and HTML. You'll learn more about styling and proper HTML document formatting.
+S2L21 - Working with Colors [Day 3]
+S2L22 - Formatting our Code [Day 3]
+S2L23 - Working with the Browser Developer Tools [Day 3]
+S2L24 - Adding a Link [Day 3]
+S2L25 - You can Nest HTML Elements! [Day 3]
+S2L26 - Using Global CSS Styles [Day 3]
+S2L27 - CSS Code Formatting [Day 3]
+S2L28 - The HTML Document Skeleton & Metadata [Day 3]
+S2L29 - Visual Studio Code Shortcuts & Tricks [Day 3]
+S2L30 - Code Comments [Day 3]
+S2L31 - First Summary [Day 3]
+S2 Quiz 2 - Learning Check: HTML & CSS Basics [Day 3]
+Day 4
+Total Content Duration: ~40 minutes
+You'll dive even deeper into CSS and styling and you will also learn how you can split your code across multiple
+files.
+S2L32 - Styling the Anchor Element Also with Pseudo Hover [Day 4]
+S2L33 - Why it's Called Cascading Style Sheets [Day 4]
+S2L34 - Storing CSS Code in External Files [Day 4]
+S2L35 - The Void Element Syntax [Day 4]
+S2L36 - Multiple Files & Requests [Day 4]
+S2L37 - Selecting Single Elements with the ID Selector [Day 4]
+S2L38 - Working with "font-size" and "px" [Day 4]
+S2L39 - Using Other Fonts from Google Fonts [Day 4]
+Day 5
+Total Content Duration: ~44 minutes
+We'll reach the end of the first main course section and you will learn how to add and style images to websites!
+S2L40 - Understanding How HTML & CSS Handle Text & Whitespace [Day 5]
+S2L41 - Adding an Image [Day 5]
+S2L42 - Styling the Image & Using the Body Tag [Day 5]
+S2L43 - Styling the Overall Page Background [Day 5]
+S2L44 - Adding a Second HTML File [Day 5]
+S2L45 - A Word About File Name Conventions [Day 5]
+S2 Quiz 3 - Learning Check: More HTML & CSS Features [Day 5]
+S2L46 - A Challenge for You! [Day 5]
+S2L47 - Challenge Solution [Day 5]
+S2 Assignment 1 - Time to Practice - Your First Challenge! [Day 5]
+S2L48 - Using a Shared CSS File [Day 5]
+S2L49 - Organizing Source Files in Folders [Day 5]
+S2L50 - Summary [Day 5]
+Day 6
+Total Content Duration: ~45 minutes
+Move to an even better local development setup and start diving into the depths of CSS fundamentals!
+S3L51 - Module Introduction [Day 6]
+S3L52 - Using the Live Server Extension [Day 6]
+S3L53 - The Development Server & The Local Website Address [Day 6]
+S3L54 - Understanding Lists [Day 6]
+S3L55 - Creating Lists [Day 6]
+S3L56 - Understanding Parents, Children, Containers & More [Day 6]
+S3L57 - Understanding Cascading, Inheritance & Specificity [Day 6]
+S3L58 - Styling the Full Week Page [Day 6]
+Day 7
+Total Content Duration: ~53 minutes
+Learn about more key CSS concepts like the CSS box model, various CSS selectors and block vs inline elements.
+S3L59 - Introducing the CSS Box Model [Day 7]
+S3L60 - Using the CSS Box Model [Day 7]
+S3L61 - Creating HTML Layouts [Day 7]
+S3L62 - Theory: Selectors & Combinators [Day 7]
+S3L63 - Using Selectors & Combinators [Day 7]
+S3L64 - Understanding Classes [Day 7]
+S3L65 - Block vs Inline Elements [Day 7]
+Day 8
+Total Content Duration: ~48 minutes
+Learn about advanced CSS concepts & practice and apply what you learned until now!
+S3L66 - Styling Differences Between Block & Inline Elements [Day 8]
+S3L67 - Understanding Margin Collapsing [Day 8]
+S3L68 - The "box-shadow" Property [Day 8]
+S3L69 - Your Challenge! [Day 8]
+S3L70 - Creating the HTML Layout [Day 8]
+S3L71 - Styling the Main Section [Day 8]
+S3L72 - Styling Images & Working with Negative Margins [Day 8]
+S3L73 - Finishing Touches [Day 8]
+S3L74 - Module Summary [Day 8]
+S3L75 - A List Of All CSS Selectors [Day 8]
+Day 9
+Total Content Duration: ~48 minutes
+Time for a first, thorough summary and practice. We'll start summarzing key HTML & CSS concepts.
+S4L76 - Module Introduction [Day 9]
+S4L77 - Your Task! [Day 9]
+S4L78 - Creating the Core Structure [Day 9]
+S4L79 - Adding the Header Content [Day 9]
+S4L80 - Adding Header Styling [Day 9]
+S4L81 - Spacing & the CSS Box Model [Day 9]
+S4L82 - Adding the Main Content [Day 9]
+Day 10
+Total Content Duration: ~46 minutes
+Let's finish the first summary module and ensure that we're all on the same page.
+S4L83 - Styling the Main Content [Day 10]
+S4L84 - Styling List Items & Links [Day 10]
+S4L85 - Adding the Footer [Day 10]
+S4L86 - Introducing New HTML Elements [Day 10]
+S4L87 - Organizing our Files [Day 10]
+S4L88 - Module Summary [Day 10]
+Day 11
+Total Content Duration: ~54 minutes
+Time to share our first website with the world! Learn how to publish (deploy) a basic website. We'll also start
+diving into the next module (Git & GitHub) already!
+S5L89 - Module Introduction [Day 11]
+S5L90 - What is "Hosting" & "Deployment"? [Day 11]
+S5L91 - Hosting a First Static Website (Example Deployment on Netlify) [Day 11]
+S5L92 - More Information On Netlify & HTTPS [Day 11]
+S5L93 - Adding a Favicon [Day 11]
+S5L94 - Relative vs Absolute Paths [Day 11]
+S5L95 - Share Your Website! [Day 11]
+S6L96 - Module Introduction [Day 11]
+S6L97 - What are Git & GitHub? [Day 11]
+S6L98 - Command Line Interface (CLI) vs Graphical User Interface (GUI) [Day 11]
+S6L99 - Optional: MacOS Terminal (z Shell) Crash Course [Day 11]
+Day 12
+Total Content Duration: ~50 minutes
+Start diving deeper into Git (a version control software) by installing it on your system and learning about some
+first key Git concepts.
+S6L100 - Optional: Windows Command Prompt (cmd) Crash Course [Day 12]
+S6L101 - Git: MacOS Installation [Day 12]
+S6L102 - Git: Windows Installation [Day 12]
+S6L103 - Understanding the Git Basics [Day 12]
+S6L104 - Initializing the Repository & Creating our First Commit [Day 12]
+Day 13
+Total Content Duration: ~44 minutes
+Time to take control over your source code! Learn more about Git and GitHub and how you can use these tools
+effectively.
+S6L105 - Understanding Branches, Merging & Fixing Merge Conflicts [Day 13]
+S6L106 - Deleting Branches & Commits, Reverting Staged & Unstaged Changes [Day 13]
+S6L107 - Onwards to GitHub - What & Why? [Day 13]
+S6L108 - Creating a GitHub Account & a Remote Repository [Day 13]
+Day 14
+Total Content Duration: ~54 minutes
+Dive deeper into GitHub and learn how you can use it to collaborate with others and share your code.
+S6L109 - Understanding the Personal Access Token & "git clone" [Day 14]
+S6L110 - Collaborating on Projects - Collaborators & Organizations [Day 14]
+S6L111 - Contributing to Projects - Forks & Pull Requests [Day 14]
+S6L112 - Wrap Up [Day 14]
+Day 15
+Total Content Duration: ~38 minutes
+Back to coding! Let's dive into various techniques and concepts that help you create beautiful website layouts with
+CSS.
+S7L113 - Module Introduction [Day 15]
+S7L114 - Project Overview - What we Will Build [Day 15]
+S7L115 - Project Setup [Day 15]
+S7L116 - Creating the Landing Page Structure [Day 15]
+S7L117 - Adding the Page Logo [Day 15]
+S7L118 - Adding the Page Navigation [Day 15]
+S7L119 - Introducing CSS Flexbox [Day 15]
+S7L120 - Aligning Flex Items [Day 15]
+Day 16
+Total Content Duration: ~45 minutes
+Learn more about CSS layouts and key styling techniques.
+S7L121 - Your Flexbox Challenge! [Day 16]
+S7L122 - Adding Flexbox to our Project [Day 16]
+S7L123 - Adding a Background Image [Day 16]
+S7L124 - Creating a Container for the Hero-Content [Day 16]
+S7L125 - Positioning Elements [Day 16]
+S7L126 - Styling the Hero Content [Day 16]
+S7L127 - Understanding Fixed & Absolute Positioning [Day 16]
+Day 17
+Total Content Duration: ~53 minutes
+Time to dive even deeper into the nitty-gritty (yet very important) details about CSS styling.
+S7L128 - Working with % Units & Creating a Top Navigation Bar [Day 17]
+S7L129 - Finishing the Header [Day 17]
+S7L130 - Introducing the "Highlights" Section [Day 17]
+S7L131 - Creating the HTML Code [Day 17]
+S7L132 - Building the Flex Container [Day 17]
+S7L133 - Flex Item Layout [Day 17]
+S7L134 - Styling Images with "object-fit" [Day 17]
+S7L135 - Styling Text [Day 17]
+Day 18
+Total Content Duration: ~42 minutes
+Apply what you learned and start finishing the course section demo project by also diving into more key features.
+S7L136 - Understanding Parent - Child Margin Collapsing [Day 18]
+S7L137 - Working with CSS Functions - Linear Gradients [Day 18]
+S7L138 - The Next Step [Day 18]
+S7L139 - Creating a Footer Section [Day 18]
+S7L140 - Styling the Footer [Day 18]
+S7L141 - Places Page - Overview & Preparations [Day 18]
+S7L142 - Creating the Card Content [Day 18]
+S7L143 - Using "position: static" [Day 18]
+Day 19
+Total Content Duration: ~48 minutes
+It's time for more practicing and some brand-new CSS concepts as well!
+S7L144 - Creating the Card Look [Day 19]
+S7L145 - Understanding "overflow" & Your Challenge! [Day 19]
+S7L146 - Solving the Challenge [Day 19]
+S7L147 - Creating all Cards [Day 19]
+S7L148 - The CSS Grid - Theory [Day 19]
+S7L149 - Understanding the "nth-type" Selector & "grid-template-columns" [Day 19]
+Day 20
+Total Content Duration: ~50 minutes
+Explore more key CSS concepts - now focusing on 'responsive' websites that work well on all kinds of screen sizes
+and devices.
+S7L150 - Your Grid Challenge [Day 20]
+S7L151 - Working with Unicode UTF-8 [Day 20]
+S7L152 - Finishing Touches [Day 20]
+S7L153 - Module Summary [Day 20]
+S7L154 - Optional: Diving Deeper Into "position", Flexbox & the Grid [Day 20]
+S8L155 - Module Introduction [Day 20]
+S8L156 - Project Overview [Day 20]
+S8L157 - Please Read: Optional Lectures [Day 20]
+S8L158 - Optional: Your Challenge - Creating the HTML Structure [Day 20]
+S8L159 - Optional: Challenge Solution - The HTML Structure [Day 20]
+Day 21
+Total Content Duration: ~47 minutes
+Learn about important CSS features that help with building responsive websites.
+S8L160 - Optional: Styling the Header [Day 21]
+S8L161 - Optional: Styling the "main" Section [Day 21]
+S8L162 - What is Responsive Design? [Day 21]
+S8L163 - The Problem with Pixels [Day 21]
+S8L164 - Introducing "em" & "rem" [Day 21]
+Day 22
+Total Content Duration: ~46 minutes
+Time to dive deeper into CSS units and start exploring another important feature: 'Media Queries'.
+S8L165 - Applying "em" & "rem" for the Font Size [Day 22]
+S8L166 - Deep Dive: "em" vs "rem" vs "%" [Day 22]
+S8L167 - Updating the Project Units [Day 22]
+S8L168 - Comparing Desktop & Mobile First Design [Day 22]
+S8L169 - Understanding Media Queries [Day 22]
+Day 23
+Total Content Duration: ~50 minutes
+Dive deeper into media queries and learn about mobile menus.
+S8L170 - Adding Media Queries to the Project [Day 23]
+S8L171 - Your Media Queries Challenge! [Day 23]
+S8L172 - Side Drawer & Hamburger Icon - Theory [Day 23]
+S8L173 - Creating the Hamburger Button [Day 23]
+S8L174 - Creating the Side Drawer [Day 23]
+S8L175 - Understanding HTML Fragments [Day 23]
+Day 24
+Total Content Duration: ~51 minutes
+Time to finish responsive designs and explore general guidelines + more concepts that help with building good￾looking websites.
+S8L176 - Understanding the Target Selector [Day 24]
+S8L177 - Finishing the Side Drawer [Day 24]
+S8L178 - Introducing the "z-index" Property [Day 24]
+S8L179 - Module Summary [Day 24]
+S9L180 - Module Introduction [Day 24]
+S9L181 - Three Things to Keep in Mind [Day 24]
+S9L182 - Introducing the Module Project [Day 24]
+S9L183 - Sizing & Spacing [Day 24]
+S9L184 - Choosing the Right Font [Day 24]
+S9L185 - Understanding The Importance of Grey, Primary & Accent Colors [Day 24]
+Day 25
+Total Content Duration: ~56 minutes
+Learn about more key features that help with building beautiful webpages.
+S9L186 - Introducing CSS Variables / CSS Custom Properties [Day 25]
+S9L187 - CSS Variables in Action [Day 25]
+S9L188 - Comparing "root" vs "html" vs "*" Selectors [Day 25]
+S9L189 - Understanding CSS Transformations [Day 25]
+S9L190 - Adding CSS Transitions [Day 25]
+S9L191 - Working with SVGs [Day 25]
+Day 26
+Total Content Duration: ~38 minutes
+Time to leave CSS. Learn how you can collect user input by using forms on your web pages.
+S10L192 - Module Introduction [Day 26]
+S10L193 - What & Why [Day 26]
+S10L194 - Important Form HTML Elements [Day 26]
+S10L195 - Our First Input Element [Day 26]
+S10L196 - Adding a Button [Day 26]
+S10L197 - The Form Element, Form Submission & Different Types of Requests [Day 26]
+Day 27
+Total Content Duration: ~45 minutes
+Dive into more key form elements that you can use to gather all kinds of user input.
+S10L198 - Styling the Form Element [Day 27]
+S10L199 - Adding Labels [Day 27]
+S10L200 - More Detailed Forms Styling [Day 27]
+S10L201 - Understanding Different Input Types [Day 27]
+S10L202 - Understanding Email, Numbers, Password & Date Types [Day 27]
+S10L203 - Working with Radio Buttons [Day 27]
+Day 28
+Total Content Duration: ~44 minutes
+Explore yet more form elements and practice what you learned about HTML forms.
+S10L204 - Using Checkboxes [Day 28]
+S10L205 - The Textarea Element For Longer Text [Day 28]
+S10L206 - Adding a Dropdown [Day 28]
+S10L207 - Forms & Semantics (Structuring Forms) [Day 28]
+S10L208 - More on Form Buttons [Day 28]
+S10L209 - Validation Attributes [Day 28]
+S10L210 - More Input & Form Attributes [Day 28]
+Day 29
+Total Content Duration: ~53 minutes
+More forms practice AND the introduction of another key frontend technology: JavaScript!
+S10L211 - Your Challenge! [Day 29]
+S10L212 - Challenge: Base Page Structure & Styling [Day 29]
+S10 Quiz 4 - Learning Check: Web Forms [Day 29]
+S10L213 - Challenge: First Set of Input Elements [Day 29]
+S10L214 - Challenge: Adding Remaining Elements [Day 29]
+S10L215 - Challenge: Submission & Validation [Day 29]
+S10L216 - Challenge: Styling [Day 29]
+S11L217 - Module Introduction [Day 29]
+S11L218 - What is JavaScript & Why would we use it? [Day 29]
+S11L219 - What You Will Learn In this Module [Day 29]
+S11L220 - Introducing Values & Variables [Day 29]
+Day 30
+Total Content Duration: ~45 minutes
+Learn about important JavaScript fundamentals and key language concepts.
+S11L221 - Adding the "script" HTML Element [Day 30]
+S11L222 - Working with Values & Basic JavaScript Commands [Day 30]
+S11L223 - Introducing Variables ("Data Containers") [Day 30]
+S11L224 - A Closer Look At The JavaScript Syntax [Day 30]
+S11L225 - A Second Variable & Practice Time! [Day 30]
+S11L226 - Outsourcing JavaScript Code Into External Files [Day 30]
+S11L227 - Introducing Arrays (Managing Lists Of Data) [Day 30]
+S11L228 - Introducing Objects (Grouping Related Data) [Day 30]
+Day 31
+Total Content Duration: ~44 minutes
+Let's finish the JavaScript basics!
+S11L229 - Splitting Code Across Multiple Lines [Day 31]
+S11L230 - Accessing Object Properties [Day 31]
+S11L231 - Performing Operations [Day 31]
+S11L232 - Onwards To Custom Commands! [Day 31]
+S11L233 - Introducing Functions [Day 31]
+S11L234 - Functions & Variables [Day 31]
+S11L235 - Returning Values In Functions [Day 31]
+S11L236 - Passing Data Into Functions With Parameters [Day 31]
+S11L237 - Functions - A Summary [Day 31]
+Day 32
+Total Content Duration: ~57 minutes
+Time to practice what we learned before it's time for slighthly more advanced JavaScript concepts that help you
+work with data efficiently.
+S11L238 - Time To Practice: The Problem [Day 32]
+S11L239 - Time To Practice: The Solution [Day 32]
+S11L240 - Introducing Methods [Day 32]
+S11L241 - Making Our Developer Life Easier (Logging with console.log()) [Day 32]
+S11L242 - Math Operations & Working With Different Kinds Of Values [Day 32]
+S11L243 - The Modulus Operator [Day 32]
+S11L244 - Math Operations & Math Rules [Day 32]
+S11L245 - Performing String (Text) Operations [Day 32]
+S11L246 - JavaScript Operators, Shorthand Operators & Value Types [Day 32]
+S11L247 - String Operations & String Methods [Day 32]
+Day 33
+Total Content Duration: ~45 minutes
+Start diving into one of the most important JavaScript concepts that will help you build interactive websites: The
+DOM.
+S11L248 - Basic Array Operations [Day 33]
+S11L249 - Splitting JavaScript Code Across Multiple Files [Day 33]
+S11L250 - Module Summary [Day 33]
+S11 Quiz 5 - Learning Check: JavaScript Basics [Day 33]
+S12L251 - Module Introduction [Day 33]
+S12L252 - Our Starting Setup [Day 33]
+S12L253 - The Global "window" & "document" Objects [Day 33]
+S12L254 - What Is "The DOM"? [Day 33]
+S12L255 - Exploring The DOM [Day 33]
+S12L256 - Drilling Into The DOM To Select & Change HTML Elements [Day 33]
+S12L257 - Loading Our Script Correctly [Day 33]
+S12L258 - The DOM Tree & DOM Traversal [Day 33]
+Day 34
+Total Content Duration: ~49 minutes
+Learn and practice how you may work with the DOM efficiently.
+S12L259 - Drilling Into The DOM & Exploring Text Nodes [Day 34]
+S12L260 - DOM Drilling Limitations [Day 34]
+S12L261 - Searching The DOM For Elements [Day 34]
+S12L262 - Querying Elements [Day 34]
+S12L263 - Common Query Methods [Day 34]
+S12L264 - Time to Practice: The Problem [Day 34]
+S12L265 - Time to Practice: The Solution [Day 34]
+S12L266 - Next Steps [Day 34]
+S12L267 - Inserting New HTML Elements via JavaScript [Day 34]
+Day 35
+Total Content Duration: ~39 minutes
+Learn how to listen and react to user input and user events - something you will need for basically every
+interactive website.
+S12L268 - Deleting DOM Elements [Day 35]
+S12L269 - Moving Existing Elements Around [Day 35]
+S12L270 - Working with "innerHTML" [Day 35]
+S12 Quiz 6 - Learning Check: JavaScript & The DOM [Day 35]
+S12L271 - Introducing Events [Day 35]
+S12L272 - Adding a First "click" Event Listener [Day 35]
+S12L273 - Listening To User Input Events [Day 35]
+S12L274 - The "event" Object [Day 35]
+S12 Quiz 7 - Learning Check: JavaScript & DOM Events [Day 35]
+Day 36
+Total Content Duration: ~54 minutes
+Time to wrap up the JavaScript DOM fundamentals!
+S12L275 - A More Realistic Demo & Example [Day 36]
+S12L276 - Introducing "Constant Variables" ("Constants") [Day 36]
+S12L277 - Changing Element Styles With JavaScript [Day 36]
+S12L278 - Managing CSS Classes With JavaScript [Day 36]
+S12L279 - Module Summary [Day 36]
+Day 37
+Total Content Duration: ~49 minutes
+Learn about more key JavaScript concepts: It's time for 'control structures' now!
+S12L280 - Time to Practice: The Problem [Day 37]
+S12L281 - Time to Practice: The Solution [Day 37]
+S13L282 - Module Introduction [Day 37]
+S13L283 - Getting Started with "Control Structures" [Day 37]
+S13L284 - Introducing Boolean Values ("Booleans") & Comparison Operators [Day 37]
+S13L285 - Booleans & Comparison Operators In Action [Day 37]
+S13L286 - Using Booleans In "if" Statements (Conditional Code Execution) [Day 37]
+Day 38
+Total Content Duration: ~46 minutes
+Explore how different kinds of control structures work and why (and when) you would use them!
+S13L287 - A Real Example [Day 38]
+S13L288 - Alternatives with "else" and "else if" [Day 38]
+S13L289 - More on Boolean Values [Day 38]
+S13L290 - "Truthy" & "Falsy" Values [Day 38]
+S13 Quiz 8 - Learning Check: "if" Statements [Day 38]
+S13L291 - Introducing Loops (Repeated Code Execution) [Day 38]
+S13L292 - The Regular "for" Loop [Day 38]
+S13L293 - The "for-of" Loop (for Arrays) [Day 38]
+S13L294 - Using the Regular "for" Loop with Arrays [Day 38]
+S13L295 - The "for-in" Loop (for Objects) [Day 38]
+S13L296 - The "while" Loop [Day 38]
+Day 39
+Total Content Duration: ~49 minutes
+Time to practice what you learned about JavaScript control structures.
+S13L297 - Practice Time: Setup & The "for" Loop [Day 39]
+S13L298 - Practice Time: The "for-of" Loop [Day 39]
+S13L299 - Practice Time: The "for-in" Loop [Day 39]
+S13L300 - Practice Time: The "while" Loop [Day 39]
+S13L301 - Module Summary [Day 39]
+S13 Quiz 9 - Learning Checks: Loops [Day 39]
+Day 40
+Total Content Duration: ~44 minutes
+It's 'Milestone Project' time! Apply many of the concepts you learned until now (not just JavaScript!) and build a
+browser game: The Tic-Tac-Toe game.
+S14L302 - Module Introduction [Day 40]
+S14L303 - Planning The Project [Day 40]
+S14L304 - Creating The HTML Structure [Day 40]
+S14L305 - Adding Base Page Styles [Day 40]
+Day 41
+Total Content Duration: ~51 minutes
+Let's continue working on the Tic-Tac-Toe game by adding some styling as well as some event handlers to it.
+S14L306 - Adding Styling For The Game Configuration Area [Day 41]
+S14L307 - Styling The Game Board [Day 41]
+S14L308 - Adding JavaScript, Script Files & First Event Listeners [Day 41]
+S14L309 - Showing & Hiding The Configuration Modal (Overlay) [Day 41]
+Day 42
+Total Content Duration: ~53 minutes
+Start handling form submission and use JavaScript to validate + handle the user input.
+S14L310 - Handling Form Submission With JavaScript [Day 42]
+S14L311 - Validating User Input With JavaScript [Day 42]
+S14L312 - Storing & Managing Submitted Data [Day 42]
+Day 43
+Total Content Duration: ~39 minutes
+Let's move on to the game logic of our Tic-Tac-Toe game. Time to get started on that!
+S14L313 - Adding Logic For Starting A Game [Day 43]
+S14L314 - Managing Game Rounds (Turns) & Field Selection [Day 43]
+S14L315 - Tracking Selected Fields On The Game Board [Day 43]
+Day 44
+Total Content Duration: ~48 minutes
+Time to finish our first milestone project!
+S14L316 - Checking For A Winner Or Draw [Day 44]
+S14L317 - Ending The Game & Adding Restart Logic [Day 44]
+S14L318 - Module Summary [Day 44]
+Day 45
+Total Content Duration: ~51 minutes
+As a developer, you often use third-party packages so that you don't have to write all the code on your own. Learn
+more about that on this day.
+S15L319 - Module Introduction [Day 45]
+S15L320 - What & Why? [Day 45]
+S15L321 - Third-Party Code vs Custom Code ("Your Own Code") [Day 45]
+S15L322 - First Example: Adding Bootstrap For Some Default Styling [Day 45]
+S15L323 - Adding & Using the Bootstrap CSS Package [Day 45]
+S15L324 - Adding a JavaScript Package [Day 45]
+S15L325 - Adding an Image Carousel / Gallery with a Third-Party Package [Day 45]
+S15L326 - Combining Third-Party Packages With Custom Code [Day 45]
+S15L327 - More Bootstrap Examples [Day 45]
+S15L328 - Exercise Solution & First Summary [Day 45]
+S15L329 - Another Example: Preparing a Parallax Page [Day 45]
+Day 46
+Total Content Duration: ~37 minutes
+Time to leave the frontend and move onwards to the backend and backend development.
+S15L330 - Adding A Parallax Effect Package [Day 46]
+S15L331 - Viewing Third-Party Source Code & Module Summary [Day 46]
+S16L332 - Module Introduction [Day 46]
+S16L333 - What is "The Backend" & Why Do We Need Server-side Code? [Day 46]
+S16L334 - Dynamic Websites vs Static Websites [Day 46]
+S16L335 - Frontend vs Backend vs Fullstack Development [Day 46]
+S16L336 - Choosing a Backend (Server-side) Programming Language [Day 46]
+S16 Quiz 10 - Learning Check: Frontend vs Backend [Day 46]
+Day 47
+Total Content Duration: ~52 minutes
+Learn more NodeJS basics. NodeJS is the primary backend technology we use in this course.
+S17L337 - Module Introduction [Day 47]
+S17L338 - Installing NodeJS [Day 47]
+S17L339 - Executing NodeJS Code [Day 47]
+S17L340 - Creating a Custom NodeJS Server [Day 47]
+S17L341 - Handling Requests & Creating Custom Responses [Day 47]
+S17L342 - Doing More Server-side Work [Day 47]
+S17 Quiz 11 - Learning Check: NodeJS Basics [Day 47]
+S17L343 - Summary [Day 47]
+Day 48
+Total Content Duration: ~59 minutes
+Learn how to add the important Express third-party package to your backend code.
+S18L344 - Module Introduction [Day 48]
+S18L345 - Installing Express with "npm" [Day 48]
+S18L346 - Creating a Server with Express & Handling Requests + Responses [Day 48]
+S18L347 - Parsing User Data With Express [Day 48]
+S18L348 - Storing Data in (Server-side) Files [Day 48]
+Day 49
+Total Content Duration: ~47 minutes
+Learn how to build dynamic websites and generate HTML code 'on the fly' on the backend with Node & Express.
+S18L349 - More About The "JSON" Format [Day 49]
+S18L350 - Reading File Data & Returning Dynamic Responses (Dynamic HTML Code) [Day 49]
+S18L351 - Enhancing the Developer Workflow with "nodemon" [Day 49]
+S18L352 - Summary [Day 49]
+S18 Quiz 12 - Learning Check: ExpressJS Basics [Day 49]
+S19L353 - Module Introduction [Day 49]
+S19L354 - Creating a Starting Project & What Needs To Change [Day 49]
+S19L355 - Setting Up A Basic Express App (incl. Practice) [Day 49]
+S19L356 - Serving HTML Files With Node & Express [Day 49]
+Day 50
+Total Content Duration: ~46 minutes
+Dive deeper into the generation of dynamic content with help of backend technologies.
+S19L357 - Serving Static Files (CSS & JavaScript) [Day 50]
+S19L358 - Parsing Form Data & Redirecting Requests [Day 50]
+S19L359 - Adding the EJS Template Engine [Day 50]
+S19L360 - Rendering Dynamic Content With Templates [Day 50]
+S19L361 - Outputting Repeated Content With EJS & Loops [Day 50]
+S19L362 - Rendering Conditional Content [Day 50]
+Day 51
+Total Content Duration: ~50 minutes
+Learn how to not just generate dynamic content but also work with dynamic URL paths.
+S19L363 - Including Partial Content [Day 51]
+S19L364 - EJS & IDE Support [Day 51]
+S19L365 - Module Summary [Day 51]
+S19 Quiz 13 - Learning Check: Static & Dynamic Content [Day 51]
+S20L366 - Module Introduction [Day 51]
+S20L367 - Introducing Dynamic Routes [Day 51]
+S20L368 - Managing Data with Unique IDs [Day 51]
+Day 52
+Total Content Duration: ~46 minutes
+Dive even deeper into backend development, dynamic request handling and response metadata.
+S20L369 - Loading & Displaying Detail Data [Day 52]
+S20L370 - Showing a 404 Page For "Not Found" Cases [Day 52]
+S20L371 - More 404 Page Usage (Non-Existent Routes) [Day 52]
+S20L372 - Handling Server-Side Errors (500 Status Code) [Day 52]
+S20L373 - Working With Status Codes [Day 52]
+S20L374 - Code Refactoring & Adding More Functions [Day 52]
+Day 53
+Total Content Duration: ~51 minutes
+Explore more features of the 'Express Router' and finish the basic backend concepts.
+S20L375 - Importing & Exporting Code In NodeJS [Day 53]
+S20L376 - Using The Express Router To Split The Route Configuration [Day 53]
+S20L377 - Introducing Query Parameters (& Hidden Form Fields) [Day 53]
+S20L378 - Query Parameters vs Route Parameters [Day 53]
+S20L379 - Module Summary [Day 53]
+S20 Quiz 14 - Learning Check: Advanced Express Features [Day 53]
+Day 54
+Total Content Duration: ~51 minutes
+We need more advanced JavaScript concepts! Time to dive into those!
+S21L380 - Module Introduction [Day 54]
+S21L381 - Functions & Default Parameters [Day 54]
+S21L382 - Rest Parameters & The Spread Operator [Day 54]
+S21L383 - Functions Are Objects! [Day 54]
+S21L384 - Working with Template Literals [Day 54]
+S21L385 - Primitive vs Reference Values [Day 54]
+Day 55
+Total Content Duration: ~45 minutes
+Explore more advanced JavaScript concepts - concepts which matter for both frontend and backend development.
+S21L386 - Custom Error Handling With try / catch [Day 55]
+S21L387 - Error Data & Throwing Custom Errors [Day 55]
+S21L388 - Variable Scoping & Shadowing [Day 55]
+S21 Quiz 15 - Learning Check: More Advanced JavaScript Concepts [Day 55]
+S21L389 - Introducing Classes As Object Blueprints [Day 55]
+S21L390 - Classes & Methods (and "this") [Day 55]
+S21L391 - Destructuring Objects & Arrays [Day 55]
+S21 Quiz 16 - Learning Check: More on Objects [Day 55]
+Day 56
+Total Content Duration: ~45 minutes
+Time to finish the more advanced JavaScript concepts and move on to databases.
+S21L392 - Diving Into Asynchronous Code & Callback Functions [Day 56]
+S21L393 - Introducing Promises [Day 56]
+S21L394 - Asynchronous Code & Error Handling [Day 56]
+S21L395 - Improving Code With async / await [Day 56]
+S21 Quiz 17 - Learning Check: Asynchronous Code [Day 56]
+S21L396 - Module Summary [Day 56]
+S22L397 - Module Introduction [Day 56]
+S22L398 - Why Databases? And What Are Databases In The First Place? [Day 56]
+Day 57
+Total Content Duration: ~51 minutes
+Learn about databases in general (what & why) and start diving into SQL database systems.
+S22L399 - A Quick Introduction To SQL Databases (RDBMS) [Day 57]
+S22L400 - A Quick Introduction To NoSQL Databases [Day 57]
+S22L401 - SQL vs NoSQL Databases [Day 57]
+S22 Quiz 18 - Learning Check: Databases Introduction [Day 57]
+S23L402 - Module Introduction [Day 57]
+S23L403 - What & Why? [Day 57]
+S23L404 - RDBMS Options [Day 57]
+S23L405 - Installing MySQL & Setup Steps [Day 57]
+S23L406 - Database Server vs Databases vs Tables [Day 57]
+S23L407 - Writing Our First SQL Code & Creating a Database [Day 57]
+Day 58
+Total Content Duration: ~46 minutes
+Dive deeper into SQL, an important database querying language.
+S23L408 - Creating a Table & Table Structure [Day 58]
+S23L409 - Inserting Data Into A Table [Day 58]
+S23L410 - Reading Data From A Table (incl. Filtering) [Day 58]
+S23L411 - Updating & Deleting Data [Day 58]
+S23L412 - Designing A More Complex Database [Day 58]
+S23L413 - Adding A New Table [Day 58]
+Day 59
+Total Content Duration: ~56 minutes
+Explore data entity relations and how you can work with them when using SQL.
+S23L414 - Implementing A More Complex Design With Relations [Day 59]
+S23L415 - Inserting Related Data [Day 59]
+S23L416 - Practice: Inserting Related Data [Day 59]
+S23L417 - Querying & Joining Related Data [Day 59]
+S23L418 - Practice: Joining Data [Day 59]
+S23L419 - Module Summary & More On Relationships [Day 59]
+S23 Quiz 19 - Learning Check: SQL Introduction [Day 59]
+Day 60
+Total Content Duration: ~39 minutes
+Time to use SQL together with Node & Express to build a real backend, using a SQL database engine.
+S24L420 - Module Introduction [Day 60]
+S24L421 - Why Should Database-Accessing Code Run On The Backend? [Day 60]
+S24L422 - What We'll Build In This Section [Day 60]
+S24L423 - Planning Our Database Structure [Day 60]
+S24L424 - Database Initialization [Day 60]
+S24L425 - Project Setup [Day 60]
+S24L426 - Creating Our First Routes [Day 60]
+Day 61
+Total Content Duration: ~44 minutes
+Continue using SQL in a Node + Express website.
+S24L427 - Connecting To The Database & Querying Data [Day 61]
+S24L428 - Inserting Data With Placeholders (Injecting Dynamic Data) [Day 61]
+S24L429 - Fetching & Displaying a List Of Blog Posts [Day 61]
+Day 62
+Total Content Duration: ~47 minutes
+Finish the usage of SQL in a Node + Express website and practice what you learned.
+S24L430 - Fetching & Displaying a Single Blog Post [Day 62]
+S24L431 - Formatting & Transforming Fetched Data [Day 62]
+S24L432 - Preparing The "Update Post" Page [Day 62]
+S24L433 - Updating Posts [Day 62]
+S24L434 - Deleting Posts [Day 62]
+S24L435 - Module Summary [Day 62]
+Day 63
+Total Content Duration: ~55 minutes
+Besides SQL, you could also use a NoSQL database system. Learn more about NoSQL on this day!
+S25L436 - Module Introduction [Day 63]
+S25L437 - The Idea Behind NoSQL Database Systems [Day 63]
+S25L438 - Introducing MongoDB [Day 63]
+S25L439 - General Setup Instructions & Installing MongoDB on macOS [Day 63]
+S25L440 - Installing MongoDB on Windows [Day 63]
+S25L441 - Installing the MongoDB Shell [Day 63]
+S25L442 - Inserting Data with MongoDB [Day 63]
+Day 64
+Total Content Duration: ~44 minutes
+Dive deeper into NoSQL (MongoDB) and learn how to interact with data and NoSQL.
+S25L443 - Reading & Filtering Data [Day 64]
+S25L444 - Updating Documents In A MongoDB Database [Day 64]
+S25L445 - Deleting Documents With MongoDB [Day 64]
+S25L446 - Planning a Complete Database Design / Layout [Day 64]
+S25L447 - Implementing the Planned Design & Layout [Day 64]
+S25L448 - Practice Time & More Filtering Operators [Day 64]
+Day 65
+Total Content Duration: ~56 minutes
+Just as before with SQL, learn how to use NoSQL together with Node & Express.
+S26L449 - Module Introduction [Day 65]
+S26L450 - Planning the Database Structure & Layout [Day 65]
+S26L451 - Project & Database Initialization [Day 65]
+S26L452 - Connecting to MongoDB (from inside NodeJS) [Day 65]
+S26L453 - Fetching & Displaying A List Of Authors [Day 65]
+S26L454 - Inserting Documents (New Posts) [Day 65]
+Day 66
+Total Content Duration: ~42 minutes
+Continue using NoSQL with Node + Express and apply what you learned.
+S26L455 - Fetching & Displaying Documents [Day 66]
+S26L456 - Fetching a Single Document [Day 66]
+S26L457 - Transforming & Preparing Data [Day 66]
+S26L458 - Updating Documents [Day 66]
+S26L459 - Deleting Documents [Day 66]
+Day 67
+Total Content Duration: ~47 minutes
+On many websites, you need to support file uploads. Time to dive into this important feature!
+S26L460 - ExpressJS & Handling Asynchronous Code Errors [Day 67]
+S27L461 - Module Introduction [Day 67]
+S27L462 - The Two Sides Of Uploading Files & Setting Up A Starting Project [Day 67]
+S27L463 - Adding A File Picker To A Form [Day 67]
+S27L464 - Parsing Incoming File Uploads With The "multer" Package [Day 67]
+S27L465 - How To Store Files On A Backend [Day 67]
+S27L466 - Configuring Multer In-Depth [Day 67]
+Day 68
+Total Content Duration: ~48 minutes
+Learn how to store and serve uploaded files correctly before we dive into a brand-new, super-important concept:
+Asynchronous JS-driven Http requests.
+S27L467 - Storing File Data In A Database (And What NOT To Store) [Day 68]
+S27L468 - Serving Uploaded Files To Website Visitors [Day 68]
+S27L469 - Adding An Image Preview Feature [Day 68]
+S27L470 - Module Summary [Day 68]
+S27 Quiz 20 - Learning Check: File Uploads [Day 68]
+S28L471 - Module Introduction [Day 68]
+S28L472 - What Is Ajax? And Why Would We Need It? [Day 68]
+S28L473 - What is "Ajax"? [Day 68]
+Day 69
+Total Content Duration: ~57 minutes
+Learn more about AJAX requests and how to work with them (on both the frontend and backend).
+S28L474 - The Starting Project & A Problem [Day 69]
+S28L475 - Sending & Handling a GET Ajax Request [Day 69]
+S28L476 - Updating The DOM Based On The Response [Day 69]
+S28L477 - Preparing The POST Request Data [Day 69]
+S28L478 - Sending & Handling a POST Ajax Request [Day 69]
+Day 70
+Total Content Duration: ~46 minutes
+Dive even deeper into AJAX requests before you thereafter start exploring 'User Authentication' in detail!
+S28L479 - Improving The User Experience (UX) [Day 70]
+S28L480 - Handling Errors (Server-side & Technical) [Day 70]
+S28L481 - We Now Have More HTTP Methods! [Day 70]
+S28L482 - Module Summary [Day 70]
+S28 Quiz 21 - Learning Check: Ajax / JS-driven Http Requests [Day 70]
+S29L483 - Module Introduction [Day 70]
+S29L484 - What is "Authentication" & Why Would You Want To Add It To A Website? [Day 70]
+S29L485 - Our Starting Project [Day 70]
+S29L486 - Adding a Basic Signup Functionality [Day 70]
+Day 71
+Total Content Duration: ~46 minutes
+Many websites need to provide user signup + login functionalities. Hence it's time to learn how you can
+implement that feature!
+S29L487 - Must-Do: Hashing Passwords [Day 71]
+S29L488 - Adding User Login Functionality [Day 71]
+S29L489 - Validating Signup Information [Day 71]
+S29L490 - Introducing Sessions & Cookies - The Stars Of Authentication [Day 71]
+S29L491 - Adding Sessions Support To Our Website [Day 71]
+Day 72
+Total Content Duration: ~50 minutes
+Let's continue working on user authentication and learn about the key concepts related to that.
+S29L492 - Storing Authentication Data In Sessions [Day 72]
+S29L493 - Using Sessions & Cookies For Controlling Access [Day 72]
+S29L494 - Adding The Logout Functionality [Day 72]
+S29L495 - A Closer Look At Cookies [Day 72]
+S29L496 - Diving Deeper Into Sessions (Beyond Authentication) [Day 72]
+Day 73
+Total Content Duration: ~35 minutes
+Time to finish the authentication part!
+S29L497 - Authorization vs Authentication [Day 73]
+S29L498 - Practicing Sessions & Working With Sessions [Day 73]
+S29L499 - Writing Custom Middlewares & Using "res.locals" [Day 73]
+S29L500 - Module Summary [Day 73]
+S29 Quiz 22 - Learning Check: Authentication [Day 73]
+Day 74
+Total Content Duration: ~55 minutes
+Time to dive into website security, various attack patterns and how to defend against them!
+S30L501 - Module Introduction [Day 74]
+S30L502 - Authentication vs Website Security [Day 74]
+S30L503 - Understanding CSRF Attacks [Day 74]
+S30L504 - Partial CSRF Protection With "Same-Site" Cookies [Day 74]
+S30L505 - Implementing A Better CSRF Protection [Day 74]
+S30L506 - Understanding XSS Attacks [Day 74]
+S30L507 - Protecting Against XSS Attacks [Day 74]
+Day 75
+Total Content Duration: ~49 minutes
+Finish the 'Security' chapter and move on to the next one: Writing good code and how to organize code efficiently,
+when working in bigger projects.
+S30L508 - Understanding SQL Injection Attacks [Day 75]
+S30L509 - Protecting Against SQL Injection Attacks [Day 75]
+S30L510 - A Word About NoSQL Injection [Day 75]
+S30L511 - Avoid Exposing Your Server-side Code or Data Accidentally! [Day 75]
+S30L512 - Module Summary [Day 75]
+S30 Quiz 23 - Learning Check: Security [Day 75]
+S31L513 - Module Introduction [Day 75]
+S31L514 - Our Starting Project (Deep Dive) [Day 75]
+S31L515 - What's Wrong With Our Code? [Day 75]
+Day 76
+Total Content Duration: ~56 minutes
+Explore more details about writing good code, using good patterns and organizing code into multiple files and
+modules.
+S31L516 - Splitting Our Routes [Day 76]
+S31L517 - Extracting Configuration Settings [Day 76]
+S31L518 - Extracting Custom Middleware [Day 76]
+S31L519 - An Introduction To The MVC Pattern [Day 76]
+S31L520 - Creating Our First Model [Day 76]
+S31L521 - Adding Update & Delete Functionalities To The Model [Day 76]
+S31L522 - Adding Fetch Functionalities To The Model [Day 76]
+Day 77
+Total Content Duration: ~41 minutes
+Learn more about refactoring and refactor code we wrote before.
+S31L523 - Adding A First Controller & Controller Actions [Day 77]
+S31L524 - Refactoring The Sessions & Input Validation Errors Functionality [Day 77]
+S31L525 - Refactoring The CSRF Token Handling [Day 77]
+S31L526 - Migrating The "Authentication" Functionality To MVC [Day 77]
+Day 78
+Total Content Duration: ~56 minutes
+Time for another, huge milestone project: Time for the 'Online Shop' project.
+S31L527 - Improving Asynchronous Error Handling [Day 78]
+S31L528 - Protecting Routes With Custom Middleware [Day 78]
+S31 Quiz 24 - Learning Check: Refactoring & MVC [Day 78]
+S32L529 - Module Introduction [Day 78]
+S32L530 - Planning The Project [Day 78]
+S32L531 - Your Challenge! [Day 78]
+S32L532 - Course Project Setup [Day 78]
+S32L533 - Creating Folders, Files & A First Set Of Routes [Day 78]
+Day 79
+Total Content Duration: ~47 minutes
+We're going to work on the online shop project for multiple days - this is day 2. Time for the basic structure and
+setup and some first styling.
+S32L534 - Adding EJS & First Views [Day 79]
+S32L535 - Populating & Rendering The First View [Day 79]
+S32L536 - Adding Base CSS Files & Static File Serving [Day 79]
+S32L537 - Adding CSS Variables & A Website Theme [Day 79]
+Day 80
+Total Content Duration: ~37 minutes
+Online Shop Day 3
+S32L538 - More Base CSS Styles For The Website [Day 80]
+S32L539 - Styling First Form Elements [Day 80]
+S32L540 - Adding A MongoDB Database Server & Connection [Day 80]
+Day 81
+Total Content Duration: ~49 minutes
+Online Shop Day 4
+S32L541 - Adding User Signup [Day 81]
+S32L542 - Security Time: Adding CSRF Protection [Day 81]
+S32L543 - Implementing Proper Error Handling With The Error Handling Middleware [Day 81]
+S32L544 - Introducing Sessions & Configuring Sessions [Day 81]
+Day 82
+Total Content Duration: ~54 minutes
+Online Shop Day 5
+S32L545 - Implementing Authentication & User Login [Day 82]
+S32L546 - Finishing Authentication & Checking The Auth Status (Custom Middleware) [Day 82]
+S32L547 - Adding Logout Functionality [Day 82]
+S32L548 - Handling Errors In Asynchronous Code [Day 82]
+S32L549 - Adding User Input Validation [Day 82]
+Day 83
+Total Content Duration: ~56 minutes
+Online Shop Day 6
+S32L550 - Flashing Errors & Input Data Onto Sessions [Day 83]
+S32L551 - Displaying Error Messages & Saving User Input [Day 83]
+S32L552 - Admin Authorization & Protected Navigation [Day 83]
+S32L553 - Setting Up Base Navigation Styles [Day 83]
+Day 84
+Total Content Duration: ~51 minutes
+Online Shop Day 7
+S32L554 - Building a Responsive Website [Day 84]
+S32L555 - Frontend JavaScript For Toggling The Mobile Menu [Day 84]
+S32L556 - Adding Product Admin Pages & Forms [Day 84]
+Day 85
+Total Content Duration: ~48 minutes
+Online Shop Day 8
+S32L557 - Adding The Image Upload Functionality [Day 85]
+S32L558 - More Data: Adding a Product Model & Storing Products In The Database [Day 85]
+S32L559 - Fetching & Outputting Product Items [Day 85]
+Day 86
+Total Content Duration: ~47 minutes
+Online Shop Day 9
+S32L560 - Styling Product Items [Day 86]
+S32L561 - Adding the "Product Details" (Single Product) Page [Day 86]
+S32L562 - Updating Products (As Administrator) [Day 86]
+Day 87
+Total Content Duration: ~43 minutes
+Online Shop Day 10
+S32L563 - Adding a "File Upload" Preview [Day 87]
+S32L564 - Making Products Deletable [Day 87]
+S32L565 - Using Ajax / Frontend JS Requests & Updating The DOM [Day 87]
+Day 88
+Total Content Duration: ~37 minutes
+Online Shop Day 11
+S32L566 - Various Fixes & Proper Route Protection [Day 88]
+S32L567 - Outputting Products For Customers [Day 88]
+S32L568 - Outputting Product Details [Day 88]
+Day 89
+Total Content Duration: ~51 minutes
+Online Shop Day 12
+S32L569 - Adding A Cart Model [Day 89]
+S32L570 - Working On The Shopping Cart Logic [Day 89]
+S32L571 - Adding Cart Items Via Ajax Requests [Day 89]
+Day 90
+Total Content Duration: ~50 minutes
+Online Shop Day 13
+S32L572 - Adding A Cart Page [Day 90]
+S32L573 - Styling The Cart Page [Day 90]
+S32L574 - Updating Cart Items (Changing Quantities) [Day 90]
+S32L575 - Updating Carts Via Ajax Requests (PATCH Requests) [Day 90]
+Day 91
+Total Content Duration: ~43 minutes
+Online Shop Day 14
+S32L576 - Updating The DOM After Cart Item Updates [Day 91]
+S32L577 - JavaScript & Floating Point Arithmetic [Day 91]
+S32L578 - Adding The Order Controller & A Basic Order Model [Day 91]
+S32L579 - Saving Orders In The Database [Day 91]
+Day 92
+Total Content Duration: ~44 minutes
+Online Shop Day 15
+S32L580 - Displaying Orders (For Customers & Administrators) [Day 92]
+S32L581 - Managing Orders As An Administrator [Day 92]
+S32L582 - Keeping Cart Items Updated [Day 92]
+S32L583 - Bugfixing & Polishing [Day 92]
+S32L584 - Module Summary [Day 92]
+Day 93
+Total Content Duration: ~52 minutes
+Learn about third-party services, what that is and why you might use it, and learn how to integrate payments (as
+an example) into your projects.
+S33L585 - Module Introduction [Day 93]
+S33L586 - What Are "Services" & "APIs"? [Day 93]
+S33L587 - Why Would You Use Services & APIs? [Day 93]
+S33L588 - Introducing Stripe [Day 93]
+S33L589 - Creating A Stripe Account [Day 93]
+S33L590 - Setting Up A Stripe API Request [Day 93]
+S33L591 - Configuring The Stripe Request & Handling Payments [Day 93]
+S33L592 - Module Summary [Day 93]
+S33L593 - More Services: Social Login (Google, Facebook), Google Analytics & More [Day 93]
+Day 94
+Total Content Duration: ~47 minutes
+Just as earlier in the course, you of course want to publish your website at some point. Now that we can build
+more complex websites, it's time to take another look at deployment therefore.
+S34L594 - Module Introduction [Day 94]
+S34L595 - How Are Websites Made Available To The Public? [Day 94]
+S34L596 - Static vs Dynamic Websites [Day 94]
+S34L597 - Hosting Database Servers [Day 94]
+S34L598 - Deployment (Preparation) Steps [Day 94]
+S34L599 - The Example Projects [Day 94]
+S34L600 - Testing & Code Preparation (incl. Environment Variables) [Day 94]
+S34L601 - Evaluating Cross-Browser Support [Day 94]
+S34L602 - Search Engine Optimization (SEO) [Day 94]
+S34L603 - Adding a Favicon [Day 94]
+Day 95
+Total Content Duration: ~52 minutes
+Deploy static and dynamic websites (and learn about the difference). Also start into a brand-new section on how
+you may build your own services or APIs.
+S34L604 - Improving Performance & Shrinking Assets (JS, Images) [Day 95]
+S34L605 - Deployment Example: Static Websites (Refresher) [Day 95]
+S34L606 - Deployment Example: Dynamic Website With Backend Code [Day 95]
+S34L607 - Deploying A MongoDB Database With Atlas [Day 95]
+S34L608 - Finishing Dynamic Website Deployment [Day 95]
+S35L609 - Module Introduction [Day 95]
+S35L610 - APIs & Services: What & Why? [Day 95]
+S35L611 - JS Packages vs URL-based APIs: What We Will Build Here [Day 95]
+S35L612 - APIs vs "Traditional Websites" [Day 95]
+Day 96
+Total Content Duration: ~54 minutes
+Dive deeper into building your own APIs!
+S35L613 - Introducing REST APIs [Day 96]
+S35L614 - Building A First Basic REST API [Day 96]
+S35L615 - Enhancing The API & Making It More Realistic [Day 96]
+S35L616 - A More Complex REST API: First Steps [Day 96]
+Day 97
+Total Content Duration: ~50 minutes
+Learn how a standalone frontend could be connected to an API that you built (or to any other API).
+S35L617 - Finishing The First API Endpoints [Day 97]
+S35L618 - Testing APIs With Postman [Day 97]
+S35L619 - Adding PATCH & DELETE Routes / Endpoints [Day 97]
+S35L620 - Adding A Decoupled Frontend Website (SPA) [Day 97]
+S35L621 - Why Would You Use A Decoupled Frontend / SPA? [Day 97]
+S35L622 - Understanding CORS Errors [Day 97]
+S35L623 - Fixing CORS Errors & Connecting The Frontend SPA To The REST API [Day 97]
+S35 Quiz 25 - Learning Check: Custom (REST) APIs [Day 97]
+Day 98
+Total Content Duration: ~40 minutes
+Back to frontend development! But now it's time to dive into powerful frontend JavaScript frameworks (=
+libraries)!
+S36L624 - Module Introduction [Day 98]
+S36L625 - Why Would You Use Frontend JavaScript UI Frameworks? [Day 98]
+S36L626 - React vs Vue vs Angular: Which Framework Should You Use? [Day 98]
+S36L627 - Getting Started With Vue.js ("Vue") [Day 98]
+S36L628 - Listening To Events & Updating Data + the DOM [Day 98]
+S36L629 - Introducing "Two-Way-Binding" [Day 98]
+Day 99
+Total Content Duration: ~53 minutes
+Finish this thorough introduction into JavaScript frontend frameworks by also connecting your frontend website
+to your API.
+S36L630 - Outputting Lists Of Data [Day 99]
+S36L631 - Outputting Content Conditionally [Day 99]
+S36L632 - Updating Data [Day 99]
+S36L633 - Deleting Data [Day 99]
+S36L634 - Sending a POST Http Request [Day 99]
+S36L635 - Loading Data & Managing Loading States [Day 99]
+S36L636 - Loading Vue Differently [Day 99]
+S36L637 - Sending PATCH + DELETE Requests & Module Summary [Day 99]
+S36 Quiz 26 - Learning Check: JavaScript Frameworks & Vue.js [Day 99]
+Day 100
+Total Content Duration: ~5 minutes
+You did it! That's it! Time to wrap up this course!
+S37L638 - Bonus: Possible Next Steps, Practice Opportunities & Project Ideas [Day 100]

@@ -6,52 +6,110 @@ import pytz
 import warnings
 import cleandata
 
-# Suppress FutureWarning about str(Component) behavior
+# Suppress FutureWarning
 warnings.filterwarnings('ignore', category=FutureWarning)
 
-# Define timezone for East African Time (e.g., Africa/Nairobi is UTC+3)
+# Configure timezone
 tz = pytz.timezone("Africa/Nairobi")
 
-# The starting date for Day 16 is 15/03/2025 at 07:00 local time.
-start_date = tz.localize(datetime(2025, 3, 15, 7, 0))
+def get_user_input():
+    """Get and validate user inputs with improved prompts"""
+    print("📅 Enter start date for your current schedule (format: DD/MM/YYYY HH:MM):")
+    date_str = input("👉 Example: 15/03/2025 07:00\n> ").strip()
+    try:
+        start_date = datetime.strptime(date_str, "%d/%m/%Y %H:%M")
+        return tz.localize(start_date)
+    except ValueError:
+        print("❌ Error: Invalid date format. Please use DD/MM/YYYY HH:MM")
+        exit(1)
 
-# Get events data from cleandata.py
-events_data = cleandata.generate_events()
+def get_current_day():
+    """Get and validate current day input"""
+    print("\n🔢 Enter your current progress day (0-100):")
+    print("   - New students: Enter 0")
+    print("   - Continuing students: Enter your current day (e.g., 16)")
+    try:
+        current_day = int(input("> ").strip())
+        if not 0 <= current_day <= 100:
+            raise ValueError
+        return current_day
+    except ValueError:
+        print("❌ Error: Please enter a number between 0 and 100")
+        exit(1)
 
-# Check if events_data is None before proceeding
-if events_data is None:
-    print("Error: No events data received from cleandata.generate_events()")
-    exit(1)
-
-cal = Calendar()
-
-# Loop through each day's data to create an event.
-for event_data in events_data:
-    # Calculate the date for the event:
-    # Day 16 is on start_date, so the offset is (current day - 16)
-    day_offset = event_data["day"] - 16
-    event_date = start_date + timedelta(days=day_offset)
+def create_calendar_events(start_date, current_day, events_data):
+    """Create calendar events with dynamic scheduling"""
+    cal = Calendar()
     
-    # The event's end time is the start time plus the day's duration (in minutes)
-    event_end = event_date + timedelta(minutes=event_data["duration"])
+    # Filter and sort events based on current progress
+    filtered_events = [e for e in events_data if e['day'] >= current_day]
+    filtered_events.sort(key=lambda x: x['day'])
     
-    event = Event()
-    event.name = f"Day {event_data['day']} of #100Webdevchallenge - {event_data['lectures'][0]}"
-    event.begin = event_date
-    event.end = event_end
+    # Validate continuing students' input
+    if current_day > 0 and not any(e['day'] == current_day for e in filtered_events):
+        print(f"❌ Error: Day {current_day} content not found in lectures data")
+        exit(1)
 
-    # Build the description with a checklist for the lectures and student notes
-    lectures_str = "\nStudent Notes:\n" + "\n".join(f"- [ ] {lecture}\nNotes:\n" for lecture in event_data["lectures"])
-    event.description = lectures_str
+    # Create events with progressive scheduling
+    for idx, event_data in enumerate(filtered_events):
+        event_date = start_date + timedelta(days=idx)
+        event_end = event_date + timedelta(minutes=event_data["duration"])
+        
+        event = Event()
+        event.name = f"📆 Day {event_data['day']} of #100DaysWebDev"
+        event.begin = event_date
+        event_end = event_end
+        
+        # Build lesson plan description
+        desc = f"📘 Daily Overview:\n{event_data['description']}\n\n"
+        desc += "🎯 Lessons Covered:\n"
+        # Add numbered lessons with emojis
+        lessons = []
+        for lesson_idx, lesson in enumerate(event_data["lectures"], 1):
+             lessons.append(
+                 f"📌 Lesson {lesson_idx:02d}: {lesson['title']}\n"
+                 f"   🖊️ Notes: Add your personal notes here\n"
+                #  f"   🔗 Resources: {lesson.get('resources', 'Check course platform')}"
+    )
+        
+        # # Add numbered lessons with emojis
+        # lessons = []
+        # for lesson_idx, lesson in enumerate(event_data["lectures"], 1):
+        #     lessons.append(
+        #         f"🎯 {lesson_idx}. {lesson['title']}\n"
+        #         f"   📝 Notes: Add your personal notes here"
+        #     )
+        
+        event.description = desc + "\n".join(lessons)
+        
+        # Configure reminders
+        event.alarms.extend([
+            DisplayAlarm(trigger=timedelta(minutes=-15)),
+            DisplayAlarm(trigger=timedelta(minutes=0))
+        ])
+        
+        cal.events.add(event)
     
-    # Add two alarms: one at the event start and one 5 minutes before.
-    alarm_at_start = DisplayAlarm(trigger=timedelta(minutes=0))
-    alarm_five_before = DisplayAlarm(trigger=timedelta(minutes=-5))
-    event.alarms.append(alarm_at_start)
-    event.alarms.append(alarm_five_before)
-    cal.events.add(event)
+    return cal
 
-# Write the calendar to an .ics file using serialize() method
-with open("course_schedule.ics", "w") as f:
-    f.write(cal.serialize())
-print("ICS file 'course_schedule.ics' has been generated.")
+def main():
+    # Get user inputs
+    start_date = get_user_input()
+    current_day = get_current_day()
+    
+    # Load lecture data
+    events_data = cleandata.generate_events()
+    if not events_data:
+        print("❌ Error: No lecture data found")
+        exit(1)
+
+    # Generate calendar
+    calendar = create_calendar_events(start_date, current_day, events_data)
+    
+    # Save output
+    with open("webdev_journey.ics", "w") as f:
+        f.write(calendar.serialize())
+    print("\n✅ Success! Calendar 'webdev_journey.ics' created!")
+
+if __name__ == "__main__":
+    main()

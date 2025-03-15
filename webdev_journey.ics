@@ -12,986 +12,10 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P
 END:VALARM
-DESCRIPTION:📘 Daily Overview:\nTime to take control over your source code! Learn more about Git and GitHub and how you can use these tools\n\n🎯 Lessons Covered:\n
-DTSTART:20250326T040000Z
-SUMMARY:📆 Day 13 of #100DaysWebDev
-UID:fd7e3831-cf07-4089-aebb-2833e47f4469@fd7e.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nLet's finish the first summary module and ensure that we're all on the same page.\n\n🎯 Lessons Covered:\n
-DTSTART:20250323T040000Z
-SUMMARY:📆 Day 10 of #100DaysWebDev
-UID:d4ea77ce-a9b7-4fed-a110-430e2ed6c256@d4ea.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nYou did it! That's it! Time to wrap up this course!\n\n🎯 Lessons Covered:\n
-DTSTART:20250621T040000Z
-SUMMARY:📆 Day 100 of #100DaysWebDev
-UID:52a09cae-e20d-42f8-89ef-1dfc4359dc9d@52a0.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nMany websites need to provide user signup + login functionalities. Hence it's time to learn how you can\n\n🎯 Lessons Covered:\n
-DTSTART:20250523T040000Z
-SUMMARY:📆 Day 71 of #100DaysWebDev
-UID:71fec942-596d-4d5c-845b-5325b2775376@71fe.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nExplore more features of the 'Express Router' and finish the basic backend concepts.\n\n🎯 Lessons Covered:\n
-DTSTART:20250505T040000Z
-SUMMARY:📆 Day 53 of #100DaysWebDev
-UID:df9ce3d2-0e20-46dd-902e-5f05e419931b@df9c.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nLearn more NodeJS basics. NodeJS is the primary backend technology we use in this course.\n\n🎯 Lessons Covered:\n
-DTSTART:20250429T040000Z
-SUMMARY:📆 Day 47 of #100DaysWebDev
-UID:e44d7317-6b5a-4450-bfa0-e0b594a13212@e44d.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nFinish the usage of SQL in a Node + Express website and practice what you learned.\n\n🎯 Lessons Covered:\n
-DTSTART:20250514T040000Z
-SUMMARY:📆 Day 62 of #100DaysWebDev
-UID:98678855-e62c-4b37-8070-300b86814c1f@9867.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nLearn about databases in general (what & why) and start diving into SQL database systems.\n\n🎯 Lessons Covered:\n
-DTSTART:20250509T040000Z
-SUMMARY:📆 Day 57 of #100DaysWebDev
-UID:b2aaec1b-1906-4e8f-a6c4-25bffa5e61ec@b2aa.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nLearn how to build dynamic websites and generate HTML code 'on the fly' on the backend with Node & Express.\n\n🎯 Lessons Covered:\n
-DTSTART:20250501T040000Z
-SUMMARY:📆 Day 49 of #100DaysWebDev
-UID:5d9c6f6e-1a56-4b3d-ad76-740b08667085@5d9c.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nLearn about more key CSS concepts like the CSS box model\, various CSS selectors and block vs inline elements.\n\n🎯 Lessons Covered:\n
-DTSTART:20250320T040000Z
-SUMMARY:📆 Day 7 of #100DaysWebDev
-UID:541a47af-f462-4293-bb01-3bc1baceffbd@541a.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nLearn how a standalone frontend could be connected to an API that you built (or to any other API).\n\n🎯 Lessons Covered:\n
-DTSTART:20250618T040000Z
-SUMMARY:📆 Day 97 of #100DaysWebDev
-UID:a1bf36a8-883a-4893-a011-33769cf1999a@a1bf.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nDive deeper into building your own APIs!\n\n🎯 Lessons Covered:\n
-DTSTART:20250617T040000Z
-SUMMARY:📆 Day 96 of #100DaysWebDev
-UID:77f2f349-ac37-43bc-a4fd-ac620e693b99@77f2.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nFinish this thorough introduction into JavaScript frontend frameworks by also connecting your frontend website\n\n🎯 Lessons Covered:\n
-DTSTART:20250620T040000Z
-SUMMARY:📆 Day 99 of #100DaysWebDev
-UID:cd9c9095-bc18-4cdf-967d-879a15eb8e30@cd9c.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\ninteractive website.\n\n🎯 Lessons Covered:\n
-DTSTART:20250417T040000Z
-SUMMARY:📆 Day 35 of #100DaysWebDev
-UID:4197bfe5-4ab1-4d6f-88e2-17764701a14e@4197.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nLearn more about refactoring and refactor code we wrote before.\n\n🎯 Lessons Covered:\n
-DTSTART:20250529T040000Z
-SUMMARY:📆 Day 77 of #100DaysWebDev
-UID:ae38ad66-f5ec-418d-8a27-a6b19481cbd0@ae38.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nOn many websites\, you need to support file uploads. Time to dive into this important feature!\n\n🎯 Lessons Covered:\n
-DTSTART:20250519T040000Z
-SUMMARY:📆 Day 67 of #100DaysWebDev
-UID:efcf83ea-78d0-4e67-b679-93113d047900@efcf.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nLearn about advanced CSS concepts & practice and apply what you learned until now!\n\n🎯 Lessons Covered:\n
+DESCRIPTION:📘 Daily Overview:\nTime to dive deeper into CSS units and start exploring another important feature: 'Media Queries'.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Applying "em" & "rem" for the Font Size\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Deep Dive: "em" vs "rem" vs "%"\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Updating the Project Units\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Comparing Desktop & Mobile First Design\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Understanding Media Queries\n   🖊️ Notes: Add your personal notes here\n
 DTSTART:20250321T040000Z
-SUMMARY:📆 Day 8 of #100DaysWebDev
-UID:b24dcd98-5078-4eda-8695-7df5f9b9b114@b24d.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nIt's time for more practicing and some brand-new CSS concepts as well!\n\n🎯 Lessons Covered:\n
-DTSTART:20250401T040000Z
-SUMMARY:📆 Day 19 of #100DaysWebDev
-UID:7e1cce77-770b-4757-90d0-a80f0ac931a3@7e1c.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nBack to coding! Let's dive into various techniques and concepts that help you create beautiful website layouts with\n\n🎯 Lessons Covered:\n
-DTSTART:20250328T040000Z
-SUMMARY:📆 Day 15 of #100DaysWebDev
-UID:d36dc363-6f80-4770-b17f-624b43399a66@d36d.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nLet's finish the JavaScript basics!\n\n🎯 Lessons Covered:\n
-DTSTART:20250413T040000Z
-SUMMARY:📆 Day 31 of #100DaysWebDev
-UID:343dd204-b6c5-49d6-bf16-fb42302ba54a@343d.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nTime to practice what you learned about JavaScript control structures.\n\n🎯 Lessons Covered:\n
-DTSTART:20250421T040000Z
-SUMMARY:📆 Day 39 of #100DaysWebDev
-UID:89e9bb8c-61b4-4bc6-9e9d-e661c3ce76f2@89e9.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nOnline Shop Day 12\n\n🎯 Lessons Covered:\n
-DTSTART:20250610T040000Z
-SUMMARY:📆 Day 89 of #100DaysWebDev
-UID:c0275658-e7b0-489c-abb2-572b7a1c180b@c027.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nTime to practice what we learned before it's time for slighthly more advanced JavaScript concepts that help you\n\n🎯 Lessons Covered:\n
-DTSTART:20250414T040000Z
-SUMMARY:📆 Day 32 of #100DaysWebDev
-UID:4fe892cb-4d6b-42b5-948b-781cb1ac5678@4fe8.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nTime for a first\, thorough summary and practice. We'll start summarzing key HTML & CSS concepts.\n\n🎯 Lessons Covered:\n
-DTSTART:20250322T040000Z
-SUMMARY:📆 Day 9 of #100DaysWebDev
-UID:d2a9c931-7a41-484e-8591-f69448fc1346@d2a9.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nLearn about third-party services\, what that is and why you might use it\, and learn how to integrate payments (as\n\n🎯 Lessons Covered:\n
-DTSTART:20250614T040000Z
-SUMMARY:📆 Day 93 of #100DaysWebDev
-UID:616acb0c-c0c9-40c2-917b-b741858447a3@616a.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nDive deeper into the generation of dynamic content with help of backend technologies.\n\n🎯 Lessons Covered:\n
-DTSTART:20250502T040000Z
-SUMMARY:📆 Day 50 of #100DaysWebDev
-UID:8335a05a-7830-44fb-ad60-546c01ab9e2b@8335.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nLearn how to not just generate dynamic content but also work with dynamic URL paths.\n\n🎯 Lessons Covered:\n
-DTSTART:20250503T040000Z
-SUMMARY:📆 Day 51 of #100DaysWebDev
-UID:dba77c22-de12-453e-beee-2692f977ceba@dba7.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nLet's move on to the game logic of our Tic-Tac-Toe game. Time to get started on that!\n\n🎯 Lessons Covered:\n
-DTSTART:20250425T040000Z
-SUMMARY:📆 Day 43 of #100DaysWebDev
-UID:ee420d11-c176-42af-88dc-0bf94831c04e@ee42.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nWe'll reach the end of the first main course section and you will learn how to add and style images to websites!\n\n🎯 Lessons Covered:\n
-DTSTART:20250318T040000Z
-SUMMARY:📆 Day 5 of #100DaysWebDev
-UID:d444443b-7bca-4a75-94b0-cf4f7f1075e5@d444.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nWe need more advanced JavaScript concepts! Time to dive into those!\n\n🎯 Lessons Covered:\n
-DTSTART:20250506T040000Z
-SUMMARY:📆 Day 54 of #100DaysWebDev
-UID:a5a4c304-91ff-4143-a7b0-5fbfae793ef7@a5a4.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nTime to use SQL together with Node & Express to build a real backend\, using a SQL database engine.\n\n🎯 Lessons Covered:\n
-DTSTART:20250512T040000Z
-SUMMARY:📆 Day 60 of #100DaysWebDev
-UID:30e97e7f-563b-436e-afaa-61273e2ff28d@30e9.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nTime to dive deeper into CSS and HTML. You'll learn more about styling and proper HTML document formatting.\n\n🎯 Lessons Covered:\n
-DTSTART:20250316T040000Z
-SUMMARY:📆 Day 3 of #100DaysWebDev
-UID:15155a09-1778-46e2-998e-6b12447d2584@1515.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nFinish the 'Security' chapter and move on to the next one: Writing good code and how to organize code efficiently\,\n\n🎯 Lessons Covered:\n
-DTSTART:20250527T040000Z
-SUMMARY:📆 Day 75 of #100DaysWebDev
-UID:4c60a55c-cc54-43cd-9d31-f4dfff861d76@4c60.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nOnline Shop Day 8\n\n🎯 Lessons Covered:\n
-DTSTART:20250606T040000Z
-SUMMARY:📆 Day 85 of #100DaysWebDev
-UID:f61f4b76-4d87-4e38-8552-c204e273c17e@f61f.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nSet up a proper local development environment and dive deeper into HTML. You'll also get started with CSS\n\n🎯 Lessons Covered:\n
-DTSTART:20250315T040000Z
-SUMMARY:📆 Day 2 of #100DaysWebDev
-UID:b99df653-9fa3-481c-8914-807235db134a@b99d.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nJust as before with SQL\, learn how to use NoSQL together with Node & Express.\n\n🎯 Lessons Covered:\n
-DTSTART:20250517T040000Z
-SUMMARY:📆 Day 65 of #100DaysWebDev
-UID:d5af679d-72d9-4757-a492-de592ab38423@d5af.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nOnline Shop Day 5\n\n🎯 Lessons Covered:\n
-DTSTART:20250603T040000Z
-SUMMARY:📆 Day 82 of #100DaysWebDev
-UID:0c819360-b669-48a4-89c6-60b26e5b80a3@0c81.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nDive even deeper into backend development\, dynamic request handling and response metadata.\n\n🎯 Lessons Covered:\n
-DTSTART:20250504T040000Z
-SUMMARY:📆 Day 52 of #100DaysWebDev
-UID:80a5c4ae-ad8b-4624-b987-b76f91e7347c@80a5.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nExplore yet more form elements and practice what you learned about HTML forms.\n\n🎯 Lessons Covered:\n
-DTSTART:20250410T040000Z
-SUMMARY:📆 Day 28 of #100DaysWebDev
-UID:3d8ec4b8-ec4c-430d-bb42-f634fcb48017@3d8e.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nDive deeper into NoSQL (MongoDB) and learn how to interact with data and NoSQL.\n\n🎯 Lessons Covered:\n
-DTSTART:20250516T040000Z
-SUMMARY:📆 Day 64 of #100DaysWebDev
-UID:87053d01-5f6e-4b31-a929-0acc1d61e494@8705.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nTime to dive even deeper into the nitty-gritty (yet very important) details about CSS styling.\n\n🎯 Lessons Covered:\n
-DTSTART:20250330T040000Z
-SUMMARY:📆 Day 17 of #100DaysWebDev
-UID:255c2ff3-a1d7-4cc9-ac68-ad1c5cfba891@255c.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nDive deeper into SQL\, an important database querying language.\n\n🎯 Lessons Covered:\n
-DTSTART:20250510T040000Z
-SUMMARY:📆 Day 58 of #100DaysWebDev
-UID:cd180dbd-3e29-47d9-b801-6a13134f87c5@cd18.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nOnline Shop Day 6\n\n🎯 Lessons Covered:\n
-DTSTART:20250604T040000Z
-SUMMARY:📆 Day 83 of #100DaysWebDev
-UID:ca029347-b936-40cc-bc35-71de772121a3@ca02.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nOnline Shop Day 10\n\n🎯 Lessons Covered:\n
-DTSTART:20250608T040000Z
-SUMMARY:📆 Day 87 of #100DaysWebDev
-UID:4a8b6837-4160-4f31-96c4-32b706a00e5e@4a8b.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nBesides SQL\, you could also use a NoSQL database system. Learn more about NoSQL on this day!\n\n🎯 Lessons Covered:\n
-DTSTART:20250515T040000Z
-SUMMARY:📆 Day 63 of #100DaysWebDev
-UID:31e6b1c6-53b9-4c89-9279-3000a99c92bb@31e6.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nExplore how different kinds of control structures work and why (and when) you would use them!\n\n🎯 Lessons Covered:\n
-DTSTART:20250420T040000Z
-SUMMARY:📆 Day 38 of #100DaysWebDev
-UID:b74fe9fe-a9cb-4f96-a471-bf76e28eeb24@b74f.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nLearn more about AJAX requests and how to work with them (on both the frontend and backend).\n\n🎯 Lessons Covered:\n
-DTSTART:20250521T040000Z
-SUMMARY:📆 Day 69 of #100DaysWebDev
-UID:468b9e2d-c5fd-4552-b0e4-b792b81586d8@468b.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nNone\n\n🎯 Lessons Covered:\n
-DTSTART:20250507T040000Z
-SUMMARY:📆 Day 55 of #100DaysWebDev
-UID:fbf108b0-6462-405c-8bb8-7adb067ad4cb@fbf1.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nTime to wrap up the JavaScript DOM fundamentals!\n\n🎯 Lessons Covered:\n
-DTSTART:20250418T040000Z
-SUMMARY:📆 Day 36 of #100DaysWebDev
-UID:228f167b-1beb-4adb-9394-8221d34bafe3@228f.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nOnline Shop Day 3\n\n🎯 Lessons Covered:\n
-DTSTART:20250601T040000Z
-SUMMARY:📆 Day 80 of #100DaysWebDev
-UID:d8b4d5ff-89ba-4493-a469-e08aab695a14@d8b4.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nJust as earlier in the course\, you of course want to publish your website at some point. Now that we can build\n\n🎯 Lessons Covered:\n
-DTSTART:20250615T040000Z
-SUMMARY:📆 Day 94 of #100DaysWebDev
-UID:00ae778f-ce79-4848-8233-eed856cb4690@00ae.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nTime to finish responsive designs and explore general guidelines + more concepts that help with building good￾looking websites.\n\n🎯 Lessons Covered:\n
-DTSTART:20250406T040000Z
-SUMMARY:📆 Day 24 of #100DaysWebDev
-UID:ccd53685-a873-4bba-9ffd-9f7b2c9c02ec@ccd5.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nDeploy static and dynamic websites (and learn about the difference). Also start into a brand-new section on how\n\n🎯 Lessons Covered:\n
-DTSTART:20250616T040000Z
-SUMMARY:📆 Day 95 of #100DaysWebDev
-UID:690fd4ab-6716-4c4e-9bbf-0a9cd960d2bc@690f.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nOnline Shop Day 13\n\n🎯 Lessons Covered:\n
-DTSTART:20250611T040000Z
-SUMMARY:📆 Day 90 of #100DaysWebDev
-UID:c11f8403-0c2b-4734-9e9b-8b702b502a63@c11f.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nOnline Shop Day 9\n\n🎯 Lessons Covered:\n
-DTSTART:20250607T040000Z
-SUMMARY:📆 Day 86 of #100DaysWebDev
-UID:1e6251b8-176b-4a45-a9c5-8304687dee90@1e62.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nYou'll dive even deeper into CSS and styling and you will also learn how you can split your code across multiple\n\n🎯 Lessons Covered:\n
-DTSTART:20250317T040000Z
-SUMMARY:📆 Day 4 of #100DaysWebDev
-UID:37441d5a-d763-469a-8fe3-e87b85471013@3744.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nTime to leave the frontend and move onwards to the backend and backend development.\n\n🎯 Lessons Covered:\n
-DTSTART:20250428T040000Z
-SUMMARY:📆 Day 46 of #100DaysWebDev
-UID:befb60cd-7d1a-4c5f-b59d-b1397cc79aae@befb.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nExplore more details about writing good code\, using good patterns and organizing code into multiple files and\n\n🎯 Lessons Covered:\n
-DTSTART:20250528T040000Z
-SUMMARY:📆 Day 76 of #100DaysWebDev
-UID:e8974ea1-6e10-4b9e-999c-d1fc117efb4d@e897.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nTime to share our first website with the world! Learn how to publish (deploy) a basic website. We'll also start\n\n🎯 Lessons Covered:\n
-DTSTART:20250324T040000Z
-SUMMARY:📆 Day 11 of #100DaysWebDev
-UID:1cbf5ea2-bef8-4bc2-b447-2026d632d3fb@1cbf.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nLearn about more key features that help with building beautiful webpages.\n\n🎯 Lessons Covered:\n
-DTSTART:20250407T040000Z
-SUMMARY:📆 Day 25 of #100DaysWebDev
-UID:c468fe8f-0f32-404c-9974-271c9634f674@c468.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nand devices.\n\n🎯 Lessons Covered:\n
-DTSTART:20250402T040000Z
-SUMMARY:📆 Day 20 of #100DaysWebDev
-UID:78cd9f12-0f82-4765-a57c-585379cb5af0@78cd.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nTime to dive deeper into CSS units and start exploring another important feature: 'Media Queries'.\n\n🎯 Lessons Covered:\n
-DTSTART:20250404T040000Z
 SUMMARY:📆 Day 22 of #100DaysWebDev
-UID:0cab1abf-4e3d-4777-882e-e8b6a81b5160@0cab.org
+UID:159c815e-0d0d-428a-a166-eea740d1539b@159c.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -1004,10 +28,10 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P
 END:VALARM
-DESCRIPTION:📘 Daily Overview:\nOnline Shop Day 11\n\n🎯 Lessons Covered:\n
-DTSTART:20250609T040000Z
-SUMMARY:📆 Day 88 of #100DaysWebDev
-UID:6987f33e-c6a3-4ef0-a177-5cbc5debdefe@6987.org
+DESCRIPTION:📘 Daily Overview:\nOnline Shop Day 12\n\n🎯 Lessons Covered:\n📌 Lesson 01: Adding A Cart Model\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Working On The Shopping Cart Logic\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Adding Cart Items Via Ajax Requests\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250527T040000Z
+SUMMARY:📆 Day 89 of #100DaysWebDev
+UID:0df322b8-b08e-4ffb-87a0-f4cf6b0b5b51@0df3.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -1020,10 +44,10 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P
 END:VALARM
-DESCRIPTION:📘 Daily Overview:\nAs a developer\, you often use third-party packages so that you don't have to write all the code on your own. Learn\n\n🎯 Lessons Covered:\n
-DTSTART:20250427T040000Z
-SUMMARY:📆 Day 45 of #100DaysWebDev
-UID:2ddcb28c-d9a3-4358-a337-06221e2f7337@2ddc.org
+DESCRIPTION:📘 Daily Overview:\nLearn about databases in general (what & why) and start diving into SQL database systems.\n\n🎯 Lessons Covered:\n📌 Lesson 01: A Quick Introduction To SQL Databases (RDBMS)\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: A Quick Introduction To NoSQL Databases\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: SQL vs NoSQL Databases\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: What & Why?\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: RDBMS Options\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Installing MySQL & Setup Steps\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 08: Database Server vs Databases vs Tables\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 09: Writing Our First SQL Code & Creating a Database\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250425T040000Z
+SUMMARY:📆 Day 57 of #100DaysWebDev
+UID:12fea945-a1ef-4f21-a54f-de7c5e3fd40b@12fe.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -1036,10 +60,10 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P
 END:VALARM
-DESCRIPTION:📘 Daily Overview:\nOnline Shop Day 14\n\n🎯 Lessons Covered:\n
-DTSTART:20250612T040000Z
-SUMMARY:📆 Day 91 of #100DaysWebDev
-UID:75016483-b96e-4b76-8c28-fb0291c88192@7501.org
+DESCRIPTION:📘 Daily Overview:\nDive deeper into building your own APIs!\n\n🎯 Lessons Covered:\n📌 Lesson 01: Introducing REST APIs\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Building A First Basic REST API\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Enhancing The API & Making It More Realistic\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: A More Complex REST API: First Steps\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250603T040000Z
+SUMMARY:📆 Day 96 of #100DaysWebDev
+UID:35dc5128-41e1-434b-8ce3-e26564fc1a8c@35dc.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -1052,10 +76,10 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P
 END:VALARM
-DESCRIPTION:📘 Daily Overview:\nApply what you learned and start finishing the course section demo project by also diving into more key features.\n\n🎯 Lessons Covered:\n
-DTSTART:20250331T040000Z
-SUMMARY:📆 Day 18 of #100DaysWebDev
-UID:f2838574-638a-497c-b8a7-0a3bb1f7b495@f283.org
+DESCRIPTION:📘 Daily Overview:\nLearn about more key features that help with building beautiful webpages.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Introducing CSS Variables / CSS Custom Properties\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: CSS Variables in Action\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Comparing "root" vs "html" vs "*" Selectors\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Understanding CSS Transformations\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Adding CSS Transitions\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Working with SVGs\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250324T040000Z
+SUMMARY:📆 Day 25 of #100DaysWebDev
+UID:4c7ba40b-ef97-4ca4-90f7-db8f1474880c@4c7b.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -1068,218 +92,10 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P
 END:VALARM
-DESCRIPTION:📘 Daily Overview:\nExplore data entity relations and how you can work with them when using SQL.\n\n🎯 Lessons Covered:\n
-DTSTART:20250511T040000Z
-SUMMARY:📆 Day 59 of #100DaysWebDev
-UID:35417e5e-3f54-4b0f-b849-ad00c0faaeab@3541.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nTime for another\, huge milestone project: Time for the 'Online Shop' project.\n\n🎯 Lessons Covered:\n
-DTSTART:20250530T040000Z
-SUMMARY:📆 Day 78 of #100DaysWebDev
-UID:747492c3-c968-4ac1-b365-02f4baba05c3@7474.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nDive into more key form elements that you can use to gather all kinds of user input.\n\n🎯 Lessons Covered:\n
-DTSTART:20250409T040000Z
-SUMMARY:📆 Day 27 of #100DaysWebDev
-UID:e38f0371-a58b-469f-b294-5a57516de1ae@e38f.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nLearn more about CSS layouts and key styling techniques.\n\n🎯 Lessons Covered:\n
-DTSTART:20250329T040000Z
-SUMMARY:📆 Day 16 of #100DaysWebDev
-UID:e3bef06c-ab45-4d81-8911-4af7fdeedc79@e3be.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nLearn about more key JavaScript concepts: It's time for 'control structures' now!\n\n🎯 Lessons Covered:\n
-DTSTART:20250419T040000Z
-SUMMARY:📆 Day 37 of #100DaysWebDev
-UID:20a3fb92-1e79-48bd-9b84-940f52bb9fdd@20a3.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nLearn and practice how you may work with the DOM efficiently.\n\n🎯 Lessons Covered:\n
-DTSTART:20250416T040000Z
-SUMMARY:📆 Day 34 of #100DaysWebDev
-UID:8d2ab450-95d6-4153-8283-88b9692336db@8d2a.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nContinue using SQL in a Node + Express website.\n\n🎯 Lessons Covered:\n
-DTSTART:20250513T040000Z
-SUMMARY:📆 Day 61 of #100DaysWebDev
-UID:404f67ea-14b8-4589-a204-5f60df193766@404f.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nLearn how to add the important Express third-party package to your backend code.\n\n🎯 Lessons Covered:\n
-DTSTART:20250430T040000Z
-SUMMARY:📆 Day 48 of #100DaysWebDev
-UID:ae346d95-8a6f-42eb-817f-2e10af800d9b@ae34.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nLearn how to store and serve uploaded files correctly before we dive into a brand-new\, super-important concept:\n\n🎯 Lessons Covered:\n
-DTSTART:20250520T040000Z
-SUMMARY:📆 Day 68 of #100DaysWebDev
-UID:ee62d77b-fdd1-4165-9cb7-f074292109f5@ee62.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nLearn about important JavaScript fundamentals and key language concepts.\n\n🎯 Lessons Covered:\n
-DTSTART:20250412T040000Z
-SUMMARY:📆 Day 30 of #100DaysWebDev
-UID:cf752771-d7bc-4759-aca8-c7352204ff4d@cf75.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nLet's continue working on the Tic-Tac-Toe game by adding some styling as well as some event handlers to it.\n\n🎯 Lessons Covered:\n
-DTSTART:20250423T040000Z
-SUMMARY:📆 Day 41 of #100DaysWebDev
-UID:755c982f-0132-4fda-9a30-606aec0b05b8@755c.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nsetup and some first styling.\n\n🎯 Lessons Covered:\n
-DTSTART:20250531T040000Z
-SUMMARY:📆 Day 79 of #100DaysWebDev
-UID:bfa881e6-2c69-49fb-afaa-99ebb85aab48@bfa8.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nStart handling form submission and use JavaScript to validate + handle the user input.\n\n🎯 Lessons Covered:\n
-DTSTART:20250424T040000Z
-SUMMARY:📆 Day 42 of #100DaysWebDev
-UID:36806c90-469d-4eb8-b458-e8a306f27c75@3680.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nOnline Shop Day 4\n\n🎯 Lessons Covered:\n
+DESCRIPTION:📘 Daily Overview:\nDeploy static and dynamic websites (and learn about the difference). Also start into a brand-new section on how\nyou may build your own services or APIs.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Improving Performance & Shrinking Assets (JS\, Images)\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Deployment Example: Static Websites (Refresher)\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Deployment Example: Dynamic Website With Backend Code\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Deploying A MongoDB Database With Atlas\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Finishing Dynamic Website Deployment\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: APIs & Services: What & Why?\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 08: JS Packages vs URL-based APIs: What We Will Build Here\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 09: APIs vs "Traditional Websites"\n   🖊️ Notes: Add your personal notes here\n
 DTSTART:20250602T040000Z
-SUMMARY:📆 Day 81 of #100DaysWebDev
-UID:fcf852be-e266-42e6-afba-c985e46a1766@fcf8.org
+SUMMARY:📆 Day 95 of #100DaysWebDev
+UID:7643a0f3-243a-4d78-b8bf-b2ca8e52702f@7643.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -1292,10 +108,10 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P
 END:VALARM
-DESCRIPTION:📘 Daily Overview:\nLearn about important CSS features that help with building responsive websites.\n\n🎯 Lessons Covered:\n
-DTSTART:20250403T040000Z
-SUMMARY:📆 Day 21 of #100DaysWebDev
-UID:051a088c-0ade-4201-ac2e-919a6459faa6@051a.org
+DESCRIPTION:📘 Daily Overview:\nAs a developer\, you often use third-party packages so that you don't have to write all the code on your own. Learn\nmore about that on this day.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: What & Why?\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Third-Party Code vs Custom Code ("Your Own Code")\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: First Example: Adding Bootstrap For Some Default Styling\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Adding & Using the Bootstrap CSS Package\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Adding a JavaScript Package\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Adding an Image Carousel / Gallery with a Third-Party Package\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 08: Combining Third-Party Packages With Custom Code\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 09: More Bootstrap Examples\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 10: Exercise Solution & First Summary\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 11: Another Example: Preparing a Parallax Page\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250413T040000Z
+SUMMARY:📆 Day 45 of #100DaysWebDev
+UID:c28ad55e-fa46-4518-82c5-1e6fcd71cc06@c28a.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -1308,186 +124,10 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P
 END:VALARM
-DESCRIPTION:📘 Daily Overview:\nStart diving deeper into Git (a version control software) by installing it on your system and learning about some\n\n🎯 Lessons Covered:\n
-DTSTART:20250325T040000Z
-SUMMARY:📆 Day 12 of #100DaysWebDev
-UID:58780af6-1915-4a51-a7d1-607dd9b9c407@5878.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nContinue using NoSQL with Node + Express and apply what you learned.\n\n🎯 Lessons Covered:\n
-DTSTART:20250518T040000Z
-SUMMARY:📆 Day 66 of #100DaysWebDev
-UID:000d89dd-e1da-4123-8129-c01982c3c846@000d.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nStart diving into one of the most important JavaScript concepts that will help you build interactive websites: The\n\n🎯 Lessons Covered:\n
-DTSTART:20250415T040000Z
-SUMMARY:📆 Day 33 of #100DaysWebDev
-UID:bbae48bd-2707-43df-bdb7-59cb42708825@bbae.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nTime to finish the authentication part!\n\n🎯 Lessons Covered:\n
-DTSTART:20250525T040000Z
-SUMMARY:📆 Day 73 of #100DaysWebDev
-UID:c63ca6a2-6476-48ae-9883-1773eb4219f7@c63c.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nTime to finish our first milestone project!\n\n🎯 Lessons Covered:\n
-DTSTART:20250426T040000Z
-SUMMARY:📆 Day 44 of #100DaysWebDev
-UID:550557a5-e45e-4f5e-bf02-82b6313e215a@5505.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nOnline Shop Day 7\n\n🎯 Lessons Covered:\n
-DTSTART:20250605T040000Z
-SUMMARY:📆 Day 84 of #100DaysWebDev
-UID:3446163e-9dca-4f92-a9d8-0b2b5f3a547d@3446.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nBack to frontend development! But now it's time to dive into powerful frontend JavaScript frameworks (=\n\n🎯 Lessons Covered:\n
-DTSTART:20250619T040000Z
-SUMMARY:📆 Day 98 of #100DaysWebDev
-UID:408b2352-b7a6-4514-a503-f3a6a9d15b61@408b.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nLet's continue working on user authentication and learn about the key concepts related to that.\n\n🎯 Lessons Covered:\n
-DTSTART:20250524T040000Z
-SUMMARY:📆 Day 72 of #100DaysWebDev
-UID:1d41ef05-3ea7-4277-8400-0182a98d9681@1d41.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nIt's 'Milestone Project' time! Apply many of the concepts you learned until now (not just JavaScript!) and build a\n\n🎯 Lessons Covered:\n
-DTSTART:20250422T040000Z
-SUMMARY:📆 Day 40 of #100DaysWebDev
-UID:44afcf75-616d-4d63-b15c-8e13e36df014@44af.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nDive even deeper into AJAX requests before you thereafter start exploring 'User Authentication' in detail!\n\n🎯 Lessons Covered:\n
-DTSTART:20250522T040000Z
-SUMMARY:📆 Day 70 of #100DaysWebDev
-UID:8e2e76ee-d3ce-4d22-8187-1c91e0aabbfb@8e2e.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nMove to an even better local development setup and start diving into the depths of CSS fundamentals!\n\n🎯 Lessons Covered:\n
-DTSTART:20250319T040000Z
-SUMMARY:📆 Day 6 of #100DaysWebDev
-UID:1b0aaf32-0aaf-4179-a850-ea1dc539fb0d@1b0a.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nDive deeper into media queries and learn about mobile menus.\n\n🎯 Lessons Covered:\n
+DESCRIPTION:📘 Daily Overview:\nLearn about more key JavaScript concepts: It's time for 'control structures' now!\n\n🎯 Lessons Covered:\n📌 Lesson 01: Time to Practice: The Problem\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Time to Practice: The Solution\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Getting Started with "Control Structures"\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Introducing Boolean Values ("Booleans") & Comparison Operators\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Booleans & Comparison Operators In Action\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Using Booleans In "if" Statements (Conditional Code Execution)\n   🖊️ Notes: Add your personal notes here\n
 DTSTART:20250405T040000Z
-SUMMARY:📆 Day 23 of #100DaysWebDev
-UID:68de854c-d190-4441-99ad-30b913c85218@68de.org
+SUMMARY:📆 Day 37 of #100DaysWebDev
+UID:1a1e334c-0619-4971-b5f2-0186a0607b4b@1a1e.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -1500,10 +140,10 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P
 END:VALARM
-DESCRIPTION:📘 Daily Overview:\nDive deeper into GitHub and learn how you can use it to collaborate with others and share your code.\n\n🎯 Lessons Covered:\n
-DTSTART:20250327T040000Z
-SUMMARY:📆 Day 14 of #100DaysWebDev
-UID:ac08e3cc-1a7a-4eff-9a91-177cfb905e48@ac08.org
+DESCRIPTION:📘 Daily Overview:\nTime to wrap up the JavaScript DOM fundamentals!\n\n🎯 Lessons Covered:\n📌 Lesson 01: A More Realistic Demo & Example\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Introducing "Constant Variables" ("Constants")\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Changing Element Styles With JavaScript\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Managing CSS Classes With JavaScript\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Module Summary\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250404T040000Z
+SUMMARY:📆 Day 36 of #100DaysWebDev
+UID:a6ea8228-482a-473b-a83a-a39a5fbfa344@a6ea.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -1516,73 +156,1209 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P
 END:VALARM
-DESCRIPTION:📘 Daily Overview:\nTime to dive into website security\, various attack patterns and how to defend against them!\n\n🎯 Lessons Covered:\n
-DTSTART:20250526T040000Z
-SUMMARY:📆 Day 74 of #100DaysWebDev
-UID:e85b9498-7a1d-41d7-a2ed-82f358be4667@e85b.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nTime to finish the more advanced JavaScript concepts and move on to databases.\n\n🎯 Lessons Covered:\n
-DTSTART:20250508T040000Z
-SUMMARY:📆 Day 56 of #100DaysWebDev
-UID:17c97b5c-0500-4e45-9081-3eeb1e216f94@17c9.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nOnline Shop Day 15\n\n🎯 Lessons Covered:\n
-DTSTART:20250613T040000Z
-SUMMARY:📆 Day 92 of #100DaysWebDev
-UID:80f13671-f7ed-4f9c-ad6b-09fb15f90a0f@80f1.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nTime to leave CSS. Learn how you can collect user input by using forms on your web pages.\n\n🎯 Lessons Covered:\n
-DTSTART:20250408T040000Z
-SUMMARY:📆 Day 26 of #100DaysWebDev
-UID:873df391-e90e-4d25-a9fd-481d19040a7e@873d.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT15M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-DESCRIPTION:📘 Daily Overview:\nMore forms practice AND the introduction of another key frontend technology: JavaScript!\n\n🎯 Lessons Covered:\n
-DTSTART:20250411T040000Z
+DESCRIPTION:📘 Daily Overview:\nMore forms practice AND the introduction of another key frontend technology: JavaScript!\n\n🎯 Lessons Covered:\n📌 Lesson 01: Your Challenge!\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Challenge: Base Page Structure & Styling\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Challenge: First Set of Input Elements\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Challenge: Adding Remaining Elements\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Challenge: Submission & Validation\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Challenge: Styling\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 08: What is JavaScript & Why would we use it?\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 09: What You Will Learn In this Module\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 10: Introducing Values & Variables\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250328T040000Z
 SUMMARY:📆 Day 29 of #100DaysWebDev
-UID:d4199a46-53ba-4424-8850-d2cc5ef2ab22@d419.org
+UID:5d92122d-71c4-45a5-893d-e6c155e95953@5d92.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nOnline Shop Day 6\n\n🎯 Lessons Covered:\n📌 Lesson 01: Flashing Errors & Input Data Onto Sessions\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Displaying Error Messages & Saving User Input\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Admin Authorization & Protected Navigation\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Setting Up Base Navigation Styles\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250521T040000Z
+SUMMARY:📆 Day 83 of #100DaysWebDev
+UID:d75f5516-bb27-40d5-a67e-5614add0ef9c@d75f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nTime to finish our first milestone project!\n\n🎯 Lessons Covered:\n📌 Lesson 01: Checking For A Winner Or Draw\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Ending The Game & Adding Restart Logic\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Module Summary\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250412T040000Z
+SUMMARY:📆 Day 44 of #100DaysWebDev
+UID:772fd80c-df8e-4c5d-9c27-6407c4aad821@772f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nFinish the usage of SQL in a Node + Express website and practice what you learned.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Fetching & Displaying a Single Blog Post\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Formatting & Transforming Fetched Data\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Preparing The "Update Post" Page\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Updating Posts\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Deleting Posts\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Module Summary\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250430T040000Z
+SUMMARY:📆 Day 62 of #100DaysWebDev
+UID:2a0ed050-18dc-4078-b2dc-5b9b98ffac1d@2a0e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nDive deeper into SQL\, an important database querying language.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Creating a Table & Table Structure\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Inserting Data Into A Table\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Reading Data From A Table (incl. Filtering)\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Updating & Deleting Data\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Designing A More Complex Database\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Adding A New Table\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250426T040000Z
+SUMMARY:📆 Day 58 of #100DaysWebDev
+UID:ff21fa2a-5e45-4fd6-944e-edc7b05a9b47@ff21.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nExplore yet more form elements and practice what you learned about HTML forms.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Using Checkboxes\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: The Textarea Element For Longer Text\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Adding a Dropdown\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Forms & Semantics (Structuring Forms)\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: More on Form Buttons\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Validation Attributes\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: More Input & Form Attributes\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250327T040000Z
+SUMMARY:📆 Day 28 of #100DaysWebDev
+UID:85ed13d3-17d5-4bd9-9451-0d8226b97231@85ed.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nDive even deeper into AJAX requests before you thereafter start exploring 'User Authentication' in detail!\n\n🎯 Lessons Covered:\n📌 Lesson 01: Improving The User Experience (UX)\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Handling Errors (Server-side & Technical)\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: We Now Have More HTTP Methods!\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Module Summary\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: What is "Authentication" & Why Would You Want To Add It To A Website?\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Our Starting Project\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 08: Adding a Basic Signup Functionality\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250508T040000Z
+SUMMARY:📆 Day 70 of #100DaysWebDev
+UID:96a105b3-ece0-48d1-9e72-17d2bfa6ec7d@96a1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nMany websites need to provide user signup + login functionalities. Hence it's time to learn how you can\nimplement that feature!\n\n🎯 Lessons Covered:\n📌 Lesson 01: Must-Do: Hashing Passwords\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Adding User Login Functionality\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Validating Signup Information\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Introducing Sessions & Cookies - The Stars Of Authentication\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Adding Sessions Support To Our Website\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250509T040000Z
+SUMMARY:📆 Day 71 of #100DaysWebDev
+UID:08677076-1e60-4bbe-b098-25ab44d0017a@0867.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nTime to use SQL together with Node & Express to build a real backend\, using a SQL database engine.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Why Should Database-Accessing Code Run On The Backend?\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: What We'll Build In This Section\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Planning Our Database Structure\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Database Initialization\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Project Setup\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Creating Our First Routes\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250428T040000Z
+SUMMARY:📆 Day 60 of #100DaysWebDev
+UID:417736b9-9098-4b4c-ab34-319e3599bfb3@4177.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nJust as earlier in the course\, you of course want to publish your website at some point. Now that we can build\nmore complex websites\, it's time to take another look at deployment therefore.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: How Are Websites Made Available To The Public?\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Static vs Dynamic Websites\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Hosting Database Servers\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Deployment (Preparation) Steps\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: The Example Projects\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Testing & Code Preparation (incl. Environment Variables)\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 08: Evaluating Cross-Browser Support\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 09: Search Engine Optimization (SEO)\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 10: Adding a Favicon\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250601T040000Z
+SUMMARY:📆 Day 94 of #100DaysWebDev
+UID:08989c8e-a667-4059-9e13-7bb7ca6cb3a8@0898.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nOnline Shop Day 15\n\n🎯 Lessons Covered:\n📌 Lesson 01: Displaying Orders (For Customers & Administrators)\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Managing Orders As An Administrator\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Keeping Cart Items Updated\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Bugfixing & Polishing\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Module Summary\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250530T040000Z
+SUMMARY:📆 Day 92 of #100DaysWebDev
+UID:5e7ef477-835a-430d-a903-a8e34f800086@5e7e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nExplore data entity relations and how you can work with them when using SQL.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Implementing A More Complex Design With Relations\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Inserting Related Data\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Practice: Inserting Related Data\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Querying & Joining Related Data\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Practice: Joining Data\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Module Summary & More On Relationships\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250427T040000Z
+SUMMARY:📆 Day 59 of #100DaysWebDev
+UID:7fcdc78d-55eb-439d-98ce-ad2d956fe675@7fcd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nLearn how to store and serve uploaded files correctly before we dive into a brand-new\, super-important concept:\nAsynchronous JS-driven Http requests.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Storing File Data In A Database (And What NOT To Store)\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Serving Uploaded Files To Website Visitors\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Adding An Image Preview Feature\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Module Summary\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: What Is Ajax? And Why Would We Need It?\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: What is "Ajax"?\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250506T040000Z
+SUMMARY:📆 Day 68 of #100DaysWebDev
+UID:69fad734-4b66-4365-973c-36b31f4740d3@69fa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nTime to leave CSS. Learn how you can collect user input by using forms on your web pages.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: What & Why\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Important Form HTML Elements\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Our First Input Element\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Adding a Button\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: The Form Element\, Form Submission & Different Types of Requests\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250325T040000Z
+SUMMARY:📆 Day 26 of #100DaysWebDev
+UID:b8357243-d070-497e-83c8-5c21ddd2bf73@b835.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nTime to practice what we learned before it's time for slighthly more advanced JavaScript concepts that help you\nwork with data efficiently.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Time To Practice: The Problem\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Time To Practice: The Solution\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Introducing Methods\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Making Our Developer Life Easier (Logging with console.log())\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Math Operations & Working With Different Kinds Of Values\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: The Modulus Operator\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Math Operations & Math Rules\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 08: Performing String (Text) Operations\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 09: JavaScript Operators\, Shorthand Operators & Value Types\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 10: String Operations & String Methods\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250331T040000Z
+SUMMARY:📆 Day 32 of #100DaysWebDev
+UID:981b2769-d590-4f6c-b574-74369ea29811@981b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nStart diving into one of the most important JavaScript concepts that will help you build interactive websites: The\nDOM.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Basic Array Operations\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Splitting JavaScript Code Across Multiple Files\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Module Summary\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Our Starting Setup\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: The Global "window" & "document" Objects\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: What Is "The DOM"?\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 08: Exploring The DOM\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 09: Drilling Into The DOM To Select & Change HTML Elements\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 10: Loading Our Script Correctly\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 11: The DOM Tree & DOM Traversal\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250401T040000Z
+SUMMARY:📆 Day 33 of #100DaysWebDev
+UID:27fe2d86-ec81-41d2-b35c-00464ae0d278@27fe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nLet's continue working on user authentication and learn about the key concepts related to that.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Storing Authentication Data In Sessions\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Using Sessions & Cookies For Controlling Access\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Adding The Logout Functionality\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: A Closer Look At Cookies\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Diving Deeper Into Sessions (Beyond Authentication)\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250510T040000Z
+SUMMARY:📆 Day 72 of #100DaysWebDev
+UID:38e7b2f9-7e1f-41b6-a0be-d72efb6b8f77@38e7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nLearn about third-party services\, what that is and why you might use it\, and learn how to integrate payments (as\nan example) into your projects.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: What Are "Services" & "APIs"?\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Why Would You Use Services & APIs?\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Introducing Stripe\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Creating A Stripe Account\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Setting Up A Stripe API Request\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Configuring The Stripe Request & Handling Payments\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 08: Module Summary\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 09: More Services: Social Login (Google\, Facebook)\, Google Analytics & More\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250531T040000Z
+SUMMARY:📆 Day 93 of #100DaysWebDev
+UID:77a1c9c6-109d-4112-a890-29007f8dd9d6@77a1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nOnline Shop Day 11\n\n🎯 Lessons Covered:\n📌 Lesson 01: Various Fixes & Proper Route Protection\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Outputting Products For Customers\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Outputting Product Details\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250526T040000Z
+SUMMARY:📆 Day 88 of #100DaysWebDev
+UID:589f619a-a6b6-4d80-946e-b3cb49d41318@589f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nOnline Shop Day 7\n\n🎯 Lessons Covered:\n📌 Lesson 01: Building a Responsive Website\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Frontend JavaScript For Toggling The Mobile Menu\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Adding Product Admin Pages & Forms\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250522T040000Z
+SUMMARY:📆 Day 84 of #100DaysWebDev
+UID:95c72998-c596-4cb3-b4cb-bbdec7e4eca1@95c7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nBesides SQL\, you could also use a NoSQL database system. Learn more about NoSQL on this day!\n\n🎯 Lessons Covered:\n📌 Lesson 01: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: The Idea Behind NoSQL Database Systems\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Introducing MongoDB\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: General Setup Instructions & Installing MongoDB on macOS\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Installing MongoDB on Windows\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Installing the MongoDB Shell\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Inserting Data with MongoDB\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250501T040000Z
+SUMMARY:📆 Day 63 of #100DaysWebDev
+UID:a701b160-49d4-44b6-97c9-f2daabbeb563@a701.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nDive deeper into media queries and learn about mobile menus.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Adding Media Queries to the Project\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Your Media Queries Challenge!\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Side Drawer & Hamburger Icon - Theory\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Creating the Hamburger Button\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Creating the Side Drawer\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Understanding HTML Fragments\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250322T040000Z
+SUMMARY:📆 Day 23 of #100DaysWebDev
+UID:7c824f5f-7f56-401d-adfb-676b7685cb02@7c82.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nLearn how to build dynamic websites and generate HTML code 'on the fly' on the backend with Node & Express.\n\n🎯 Lessons Covered:\n📌 Lesson 01: More About The "JSON" Format\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Reading File Data & Returning Dynamic Responses (Dynamic HTML Code)\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Enhancing the Developer Workflow with "nodemon"\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Summary\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Creating a Starting Project & What Needs To Change\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Setting Up A Basic Express App (incl. Practice)\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 08: Serving HTML Files With Node & Express\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250417T040000Z
+SUMMARY:📆 Day 49 of #100DaysWebDev
+UID:99930790-0b35-4cf5-8ba4-6af5d157bfee@9993.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nJust as before with SQL\, learn how to use NoSQL together with Node & Express.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Planning the Database Structure & Layout\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Project & Database Initialization\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Connecting to MongoDB (from inside NodeJS)\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Fetching & Displaying A List Of Authors\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Inserting Documents (New Posts)\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250503T040000Z
+SUMMARY:📆 Day 65 of #100DaysWebDev
+UID:2919a7ff-763f-4585-a61d-f86d2afafb68@2919.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nLearn more NodeJS basics. NodeJS is the primary backend technology we use in this course.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Installing NodeJS\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Executing NodeJS Code\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Creating a Custom NodeJS Server\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Handling Requests & Creating Custom Responses\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Doing More Server-side Work\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Summary\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250415T040000Z
+SUMMARY:📆 Day 47 of #100DaysWebDev
+UID:fef447af-07f7-48b6-8674-d08cb0fa05b4@fef4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nExplore more details about writing good code\, using good patterns and organizing code into multiple files and\nmodules.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Splitting Our Routes\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Extracting Configuration Settings\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Extracting Custom Middleware\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: An Introduction To The MVC Pattern\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Creating Our First Model\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Adding Update & Delete Functionalities To The Model\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Adding Fetch Functionalities To The Model\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250514T040000Z
+SUMMARY:📆 Day 76 of #100DaysWebDev
+UID:b51fc54e-937b-4f57-9082-c11b87c40c07@b51f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nLet's continue working on the Tic-Tac-Toe game by adding some styling as well as some event handlers to it.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Adding Styling For The Game Configuration Area\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Styling The Game Board\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Adding JavaScript\, Script Files & First Event Listeners\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Showing & Hiding The Configuration Modal (Overlay)\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250409T040000Z
+SUMMARY:📆 Day 41 of #100DaysWebDev
+UID:c99e0741-6aef-49bb-b434-fe15ca9c1964@c99e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nTime to finish the more advanced JavaScript concepts and move on to databases.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Diving Into Asynchronous Code & Callback Functions\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Introducing Promises\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Asynchronous Code & Error Handling\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Improving Code With async / await\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Module Summary\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Why Databases? And What Are Databases In The First Place?\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250424T040000Z
+SUMMARY:📆 Day 56 of #100DaysWebDev
+UID:c7f8160a-5533-41bf-b2e7-f05aaf661c2a@c7f8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nLet's finish the JavaScript basics!\n\n🎯 Lessons Covered:\n📌 Lesson 01: Splitting Code Across Multiple Lines\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Accessing Object Properties\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Performing Operations\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Onwards To Custom Commands!\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Introducing Functions\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Functions & Variables\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Returning Values In Functions\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 08: Passing Data Into Functions With Parameters\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 09: Functions - A Summary\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250330T040000Z
+SUMMARY:📆 Day 31 of #100DaysWebDev
+UID:c70ef8fd-366b-4a94-9141-5a684b8ef642@c70e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nExplore how different kinds of control structures work and why (and when) you would use them!\n\n🎯 Lessons Covered:\n📌 Lesson 01: A Real Example\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Alternatives with "else" and "else if"\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: More on Boolean Values\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: "Truthy" & "Falsy" Values\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Introducing Loops (Repeated Code Execution)\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: The Regular "for" Loop\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: The "for-of" Loop (for Arrays)\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 08: Using the Regular "for" Loop with Arrays\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 09: The "for-in" Loop (for Objects)\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 10: The "while" Loop\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250406T040000Z
+SUMMARY:📆 Day 38 of #100DaysWebDev
+UID:1bd183a9-9134-4376-9b1e-e3247a96d20d@1bd1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nLearning Check: More Advanced JavaScript Concepts\n\n🎯 Lessons Covered:\n📌 Lesson 01: Custom Error Handling With try / catch\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Error Data & Throwing Custom Errors\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Variable Scoping & Shadowing\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Introducing Classes As Object Blueprints\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Classes & Methods (and "this")\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Destructuring Objects & Arrays\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250423T040000Z
+SUMMARY:📆 Day 55 of #100DaysWebDev
+UID:4031e834-bba7-4d4f-92aa-160de329a8df@4031.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nOnline Shop Day 4\n\n🎯 Lessons Covered:\n📌 Lesson 01: Adding User Signup\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Security Time: Adding CSRF Protection\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Implementing Proper Error Handling With The Error Handling Middleware\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Introducing Sessions & Configuring Sessions\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250519T040000Z
+SUMMARY:📆 Day 81 of #100DaysWebDev
+UID:b257ac81-eccf-44fa-84d8-5a8c26be241c@b257.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nLearn more about CSS layouts and key styling techniques.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Your Flexbox Challenge!\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Adding Flexbox to our Project\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Adding a Background Image\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Creating a Container for the Hero-Content\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Positioning Elements\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Styling the Hero Content\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Understanding Fixed & Absolute Positioning\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250315T040000Z
+SUMMARY:📆 Day 16 of #100DaysWebDev
+UID:ff8c8b05-f347-4d64-82c2-378a5943cb3c@ff8c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nTime to practice what you learned about JavaScript control structures.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Practice Time: Setup & The "for" Loop\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Practice Time: The "for-of" Loop\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Practice Time: The "for-in" Loop\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Practice Time: The "while" Loop\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Module Summary\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250407T040000Z
+SUMMARY:📆 Day 39 of #100DaysWebDev
+UID:91dc6252-87ed-4361-9bd9-93794bf7ebce@91dc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nLearn how to add the important Express third-party package to your backend code.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Installing Express with "npm"\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Creating a Server with Express & Handling Requests + Responses\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Parsing User Data With Express\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Storing Data in (Server-side) Files\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250416T040000Z
+SUMMARY:📆 Day 48 of #100DaysWebDev
+UID:6d23ace7-d7c1-481e-9f85-a503128ca402@6d23.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nOnline Shop Day 3\n\n🎯 Lessons Covered:\n📌 Lesson 01: More Base CSS Styles For The Website\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Styling First Form Elements\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Adding A MongoDB Database Server & Connection\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250518T040000Z
+SUMMARY:📆 Day 80 of #100DaysWebDev
+UID:6dc8e63a-b108-4aab-9d10-26005139e458@6dc8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nOnline Shop Day 13\n\n🎯 Lessons Covered:\n📌 Lesson 01: Adding A Cart Page\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Styling The Cart Page\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Updating Cart Items (Changing Quantities)\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Updating Carts Via Ajax Requests (PATCH Requests)\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250528T040000Z
+SUMMARY:📆 Day 90 of #100DaysWebDev
+UID:7854c46c-ec8d-473a-8ab5-3b4e53a303be@7854.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nIt's time for more practicing and some brand-new CSS concepts as well!\n\n🎯 Lessons Covered:\n📌 Lesson 01: Creating the Card Look\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Understanding "overflow" & Your Challenge!\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Solving the Challenge\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Creating all Cards\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: The CSS Grid - Theory\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Understanding the "nth-type" Selector & "grid-template-columns"\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250318T040000Z
+SUMMARY:📆 Day 19 of #100DaysWebDev
+UID:5e63f4f7-d45a-4a51-ada2-f76cfd2d02a5@5e63.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nTime for another\, huge milestone project: Time for the 'Online Shop' project.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Improving Asynchronous Error Handling\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Protecting Routes With Custom Middleware\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Planning The Project\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Your Challenge!\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Course Project Setup\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Creating Folders\, Files & A First Set Of Routes\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250516T040000Z
+SUMMARY:📆 Day 78 of #100DaysWebDev
+UID:3f4c9719-87b4-44aa-8bc7-ae498e58c44e@3f4c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nWe need more advanced JavaScript concepts! Time to dive into those!\n\n🎯 Lessons Covered:\n📌 Lesson 01: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Functions & Default Parameters\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Rest Parameters & The Spread Operator\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Functions Are Objects!\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Working with Template Literals\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Primitive vs Reference Values\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250422T040000Z
+SUMMARY:📆 Day 54 of #100DaysWebDev
+UID:683e1bd4-2c27-41a1-bf7c-7a52b40983ab@683e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nTime to leave the frontend and move onwards to the backend and backend development.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Adding A Parallax Effect Package\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Viewing Third-Party Source Code & Module Summary\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: What is "The Backend" & Why Do We Need Server-side Code?\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Dynamic Websites vs Static Websites\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Frontend vs Backend vs Fullstack Development\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Choosing a Backend (Server-side) Programming Language\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250414T040000Z
+SUMMARY:📆 Day 46 of #100DaysWebDev
+UID:2da4bf74-38b2-4b02-bca8-1c2377ff2460@2da4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nApply what you learned and start finishing the course section demo project by also diving into more key features.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Understanding Parent - Child Margin Collapsing\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Working with CSS Functions - Linear Gradients\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: The Next Step\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Creating a Footer Section\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Styling the Footer\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Places Page - Overview & Preparations\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Creating the Card Content\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 08: Using "position: static"\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250317T040000Z
+SUMMARY:📆 Day 18 of #100DaysWebDev
+UID:e8af4a70-902b-4201-a0f9-5ba4fa803d89@e8af.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nand devices.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Your Grid Challenge\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Working with Unicode UTF-8\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Finishing Touches\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Module Summary\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Optional: Diving Deeper Into "position"\, Flexbox & the Grid\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Project Overview\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 08: Please Read: Optional Lectures\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 09: Optional: Your Challenge - Creating the HTML Structure\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 10: Optional: Challenge Solution - The HTML Structure\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250319T040000Z
+SUMMARY:📆 Day 20 of #100DaysWebDev
+UID:77cf2ed2-4d98-4a80-a68a-71f6bd3d5242@77cf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nLearn more about AJAX requests and how to work with them (on both the frontend and backend).\n\n🎯 Lessons Covered:\n📌 Lesson 01: The Starting Project & A Problem\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Sending & Handling a GET Ajax Request\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Updating The DOM Based On The Response\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Preparing The POST Request Data\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Sending & Handling a POST Ajax Request\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250507T040000Z
+SUMMARY:📆 Day 69 of #100DaysWebDev
+UID:0146d746-18ca-405c-9572-2f25ad0d689c@0146.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nLearn how to not just generate dynamic content but also work with dynamic URL paths.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Including Partial Content\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: EJS & IDE Support\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Module Summary\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Introducing Dynamic Routes\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Managing Data with Unique IDs\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250419T040000Z
+SUMMARY:📆 Day 51 of #100DaysWebDev
+UID:235a0c36-b1fb-4b85-915c-d7f8ad01934f@235a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nTime to finish responsive designs and explore general guidelines + more concepts that help with building good￾looking websites.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Understanding the Target Selector\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Finishing the Side Drawer\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Introducing the "z-index" Property\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Module Summary\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Three Things to Keep in Mind\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Introducing the Module Project\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 08: Sizing & Spacing\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 09: Choosing the Right Font\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 10: Understanding The Importance of Grey\, Primary & Accent Colors\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250323T040000Z
+SUMMARY:📆 Day 24 of #100DaysWebDev
+UID:8ea69c7e-93f1-4380-88aa-336651c5bacc@8ea6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nsetup and some first styling.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Adding EJS & First Views\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Populating & Rendering The First View\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Adding Base CSS Files & Static File Serving\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Adding CSS Variables & A Website Theme\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250517T040000Z
+SUMMARY:📆 Day 79 of #100DaysWebDev
+UID:4f87cf47-e3e1-4d88-9035-062bae081abb@4f87.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nOnline Shop Day 10\n\n🎯 Lessons Covered:\n📌 Lesson 01: Adding a "File Upload" Preview\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Making Products Deletable\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Using Ajax / Frontend JS Requests & Updating The DOM\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250525T040000Z
+SUMMARY:📆 Day 87 of #100DaysWebDev
+UID:8fe27288-2c1b-4a62-902c-5b3d88c5d390@8fe2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nFinish this thorough introduction into JavaScript frontend frameworks by also connecting your frontend website\nto your API.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Outputting Lists Of Data\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Outputting Content Conditionally\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Updating Data\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Deleting Data\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Sending a POST Http Request\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Loading Data & Managing Loading States\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Loading Vue Differently\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 08: Sending PATCH + DELETE Requests & Module Summary\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250606T040000Z
+SUMMARY:📆 Day 99 of #100DaysWebDev
+UID:5d069f20-5ca3-4fab-89a9-35e045b0f892@5d06.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nOnline Shop Day 9\n\n🎯 Lessons Covered:\n📌 Lesson 01: Styling Product Items\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Adding the "Product Details" (Single Product) Page\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Updating Products (As Administrator)\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250524T040000Z
+SUMMARY:📆 Day 86 of #100DaysWebDev
+UID:c932264a-6707-4576-b8a2-64e4eff73d9d@c932.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nTime to dive even deeper into the nitty-gritty (yet very important) details about CSS styling.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Working with % Units & Creating a Top Navigation Bar\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Finishing the Header\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Introducing the "Highlights" Section\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Creating the HTML Code\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Building the Flex Container\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Flex Item Layout\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Styling Images with "object-fit"\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 08: Styling Text\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250316T040000Z
+SUMMARY:📆 Day 17 of #100DaysWebDev
+UID:2efeef6b-5d52-4698-b47e-57623c121870@2efe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nLearn and practice how you may work with the DOM efficiently.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Drilling Into The DOM & Exploring Text Nodes\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: DOM Drilling Limitations\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Searching The DOM For Elements\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Querying Elements\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Common Query Methods\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Time to Practice: The Problem\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Time to Practice: The Solution\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 08: Next Steps\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 09: Inserting New HTML Elements via JavaScript\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250402T040000Z
+SUMMARY:📆 Day 34 of #100DaysWebDev
+UID:51b0e6ea-832c-4583-a050-9e1d27473cd9@51b0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nTime to finish the authentication part!\n\n🎯 Lessons Covered:\n📌 Lesson 01: Authorization vs Authentication\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Practicing Sessions & Working With Sessions\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Writing Custom Middlewares & Using "res.locals"\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Module Summary\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250511T040000Z
+SUMMARY:📆 Day 73 of #100DaysWebDev
+UID:6d914203-74d6-4f51-b1e5-f27d93d3af72@6d91.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nOnline Shop Day 8\n\n🎯 Lessons Covered:\n📌 Lesson 01: Adding The Image Upload Functionality\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: More Data: Adding a Product Model & Storing Products In The Database\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Fetching & Outputting Product Items\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250523T040000Z
+SUMMARY:📆 Day 85 of #100DaysWebDev
+UID:4570191d-e015-4d5c-80c9-6e83170d9754@4570.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nContinue using SQL in a Node + Express website.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Connecting To The Database & Querying Data\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Inserting Data With Placeholders (Injecting Dynamic Data)\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Fetching & Displaying a List Of Blog Posts\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250429T040000Z
+SUMMARY:📆 Day 61 of #100DaysWebDev
+UID:a705954e-352a-46e6-8af0-07a214ffd4d1@a705.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nBack to frontend development! But now it's time to dive into powerful frontend JavaScript frameworks (=\nlibraries)!\n\n🎯 Lessons Covered:\n📌 Lesson 01: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Why Would You Use Frontend JavaScript UI Frameworks?\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: React vs Vue vs Angular: Which Framework Should You Use?\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Getting Started With Vue.js ("Vue")\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Listening To Events & Updating Data + the DOM\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Introducing "Two-Way-Binding"\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250605T040000Z
+SUMMARY:📆 Day 98 of #100DaysWebDev
+UID:1187d13d-ab1b-4f79-b5ed-697bfbb628d9@1187.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nFinish the 'Security' chapter and move on to the next one: Writing good code and how to organize code efficiently\,\nwhen working in bigger projects.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Understanding SQL Injection Attacks\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Protecting Against SQL Injection Attacks\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: A Word About NoSQL Injection\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Avoid Exposing Your Server-side Code or Data Accidentally!\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Module Summary\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Our Starting Project (Deep Dive)\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 08: What's Wrong With Our Code?\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250513T040000Z
+SUMMARY:📆 Day 75 of #100DaysWebDev
+UID:7c5cf25f-de02-48c0-b3cb-2f6e084384c3@7c5c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nDive even deeper into backend development\, dynamic request handling and response metadata.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Loading & Displaying Detail Data\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Showing a 404 Page For "Not Found" Cases\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: More 404 Page Usage (Non-Existent Routes)\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Handling Server-Side Errors (500 Status Code)\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Working With Status Codes\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Code Refactoring & Adding More Functions\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250420T040000Z
+SUMMARY:📆 Day 52 of #100DaysWebDev
+UID:e8ef5a02-9eec-475a-aca9-0f1d326a74b1@e8ef.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nYou did it! That's it! Time to wrap up this course!\n\n🎯 Lessons Covered:\n📌 Lesson 01: Bonus: Possible Next Steps\, Practice Opportunities & Project Ideas\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250607T040000Z
+SUMMARY:📆 Day 100 of #100DaysWebDev
+UID:f04ac503-61f7-4d3d-96d4-be1072b74fd7@f04a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nLet's move on to the game logic of our Tic-Tac-Toe game. Time to get started on that!\n\n🎯 Lessons Covered:\n📌 Lesson 01: Adding Logic For Starting A Game\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Managing Game Rounds (Turns) & Field Selection\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Tracking Selected Fields On The Game Board\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250411T040000Z
+SUMMARY:📆 Day 43 of #100DaysWebDev
+UID:ded275de-4641-49e0-8600-53546b6810a4@ded2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nOnline Shop Day 14\n\n🎯 Lessons Covered:\n📌 Lesson 01: Updating The DOM After Cart Item Updates\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: JavaScript & Floating Point Arithmetic\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Adding The Order Controller & A Basic Order Model\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Saving Orders In The Database\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250529T040000Z
+SUMMARY:📆 Day 91 of #100DaysWebDev
+UID:094e0b0a-95dc-4248-bef5-b8edbd19b1f9@094e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nLearn about important JavaScript fundamentals and key language concepts.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Adding the "script" HTML Element\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Working with Values & Basic JavaScript Commands\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Introducing Variables ("Data Containers")\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: A Closer Look At The JavaScript Syntax\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: A Second Variable & Practice Time!\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Outsourcing JavaScript Code Into External Files\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Introducing Arrays (Managing Lists Of Data)\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 08: Introducing Objects (Grouping Related Data)\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250329T040000Z
+SUMMARY:📆 Day 30 of #100DaysWebDev
+UID:52d313d5-b2e4-46bf-acd5-c8b2c5318fb7@52d3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nIt's 'Milestone Project' time! Apply many of the concepts you learned until now (not just JavaScript!) and build a\nbrowser game: The Tic-Tac-Toe game.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Planning The Project\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Creating The HTML Structure\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Adding Base Page Styles\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250408T040000Z
+SUMMARY:📆 Day 40 of #100DaysWebDev
+UID:6b95a6e7-6730-43fc-b4b9-3c6909386681@6b95.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nDive deeper into NoSQL (MongoDB) and learn how to interact with data and NoSQL.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Reading & Filtering Data\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Updating Documents In A MongoDB Database\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Deleting Documents With MongoDB\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Planning a Complete Database Design / Layout\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Implementing the Planned Design & Layout\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Practice Time & More Filtering Operators\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250502T040000Z
+SUMMARY:📆 Day 64 of #100DaysWebDev
+UID:6f91cdcb-9d4b-46c6-a4b4-d7f19cb354c1@6f91.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nOnline Shop Day 5\n\n🎯 Lessons Covered:\n📌 Lesson 01: Implementing Authentication & User Login\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Finishing Authentication & Checking The Auth Status (Custom Middleware)\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Adding Logout Functionality\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Handling Errors In Asynchronous Code\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Adding User Input Validation\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250520T040000Z
+SUMMARY:📆 Day 82 of #100DaysWebDev
+UID:c683c3aa-50dc-45a6-82db-a0dbf10904de@c683.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nDive deeper into the generation of dynamic content with help of backend technologies.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Serving Static Files (CSS & JavaScript)\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Parsing Form Data & Redirecting Requests\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Adding the EJS Template Engine\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Rendering Dynamic Content With Templates\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Outputting Repeated Content With EJS & Loops\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Rendering Conditional Content\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250418T040000Z
+SUMMARY:📆 Day 50 of #100DaysWebDev
+UID:1500ebe5-de7e-443c-9b7e-4faee7914a01@1500.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nOn many websites\, you need to support file uploads. Time to dive into this important feature!\n\n🎯 Lessons Covered:\n📌 Lesson 01: ExpressJS & Handling Asynchronous Code Errors\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: The Two Sides Of Uploading Files & Setting Up A Starting Project\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Adding A File Picker To A Form\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Parsing Incoming File Uploads With The "multer" Package\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: How To Store Files On A Backend\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Configuring Multer In-Depth\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250505T040000Z
+SUMMARY:📆 Day 67 of #100DaysWebDev
+UID:11a46ccb-c3e0-4ddb-b5ce-c23ad66a9b7b@11a4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nDive into more key form elements that you can use to gather all kinds of user input.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Styling the Form Element\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Adding Labels\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: More Detailed Forms Styling\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Understanding Different Input Types\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Understanding Email\, Numbers\, Password & Date Types\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Working with Radio Buttons\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250326T040000Z
+SUMMARY:📆 Day 27 of #100DaysWebDev
+UID:19eeca82-be48-45c4-ac3b-aced62676986@19ee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nLearn how a standalone frontend could be connected to an API that you built (or to any other API).\n\n🎯 Lessons Covered:\n📌 Lesson 01: Finishing The First API Endpoints\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Testing APIs With Postman\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Adding PATCH & DELETE Routes / Endpoints\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Adding A Decoupled Frontend Website (SPA)\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Why Would You Use A Decoupled Frontend / SPA?\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Understanding CORS Errors\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Fixing CORS Errors & Connecting The Frontend SPA To The REST API\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250604T040000Z
+SUMMARY:📆 Day 97 of #100DaysWebDev
+UID:a195edca-2ef7-422c-85c3-4e1ef8ffd396@a195.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\ninteractive website.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Deleting DOM Elements\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Moving Existing Elements Around\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Working with "innerHTML"\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Introducing Events\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Adding a First "click" Event Listener\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Listening To User Input Events\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: The "event" Object\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250403T040000Z
+SUMMARY:📆 Day 35 of #100DaysWebDev
+UID:05a6aae5-4773-4a6e-949d-ed3dafbdea20@05a6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nContinue using NoSQL with Node + Express and apply what you learned.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Fetching & Displaying Documents\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Fetching a Single Document\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Transforming & Preparing Data\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Updating Documents\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Deleting Documents\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250504T040000Z
+SUMMARY:📆 Day 66 of #100DaysWebDev
+UID:bd95ee85-ee19-4669-b441-674c3bcab48e@bd95.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nLearn about important CSS features that help with building responsive websites.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Optional: Styling the Header\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Optional: Styling the "main" Section\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: What is Responsive Design?\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: The Problem with Pixels\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Introducing "em" & "rem"\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250320T040000Z
+SUMMARY:📆 Day 21 of #100DaysWebDev
+UID:e463a6ab-5feb-4bce-a51c-43803691ff1a@e463.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nStart handling form submission and use JavaScript to validate + handle the user input.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Handling Form Submission With JavaScript\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Validating User Input With JavaScript\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Storing & Managing Submitted Data\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250410T040000Z
+SUMMARY:📆 Day 42 of #100DaysWebDev
+UID:e8ff53f1-6d0c-487c-bd25-a4c139968b0b@e8ff.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nExplore more features of the 'Express Router' and finish the basic backend concepts.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Importing & Exporting Code In NodeJS\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Using The Express Router To Split The Route Configuration\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Introducing Query Parameters (& Hidden Form Fields)\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Query Parameters vs Route Parameters\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Module Summary\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250421T040000Z
+SUMMARY:📆 Day 53 of #100DaysWebDev
+UID:6837abbd-c8af-40ba-8978-d1c240c5f8ee@6837.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nLearn more about refactoring and refactor code we wrote before.\n\n🎯 Lessons Covered:\n📌 Lesson 01: Adding A First Controller & Controller Actions\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Refactoring The Sessions & Input Validation Errors Functionality\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Refactoring The CSRF Token Handling\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Migrating The "Authentication" Functionality To MVC\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250515T040000Z
+SUMMARY:📆 Day 77 of #100DaysWebDev
+UID:8569528e-f654-4d4c-93eb-7ff970e384bd@8569.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P
+END:VALARM
+DESCRIPTION:📘 Daily Overview:\nTime to dive into website security\, various attack patterns and how to defend against them!\n\n🎯 Lessons Covered:\n📌 Lesson 01: Module Introduction\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 02: Authentication vs Website Security\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 03: Understanding CSRF Attacks\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 04: Partial CSRF Protection With "Same-Site" Cookies\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 05: Implementing A Better CSRF Protection\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 06: Understanding XSS Attacks\n   🖊️ Notes: Add your personal notes here\n\n📌 Lesson 07: Protecting Against XSS Attacks\n   🖊️ Notes: Add your personal notes here\n
+DTSTART:20250512T040000Z
+SUMMARY:📆 Day 74 of #100DaysWebDev
+UID:96d61add-e339-4e20-8432-a6539b579a1d@96d6.org
 END:VEVENT
 END:VCALENDAR

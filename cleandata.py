@@ -24,44 +24,60 @@ def generate_events():
                 'lectures': []
             }
         elif line.startswith('Total Content Duration: '):
-            duration_str = line.split(': ')[1]
-            duration = int(''.join(filter(str.isdigit, duration_str)))
-            current_day['duration'] = duration
-        elif ' - ' in line and line.split(' - ')[0].strip():
-            lecture_info = line.split(' [')[0].strip()
-            section_lecture, title = lecture_info.split(' - ', 1)
-            
-            # Skip non-lecture lines like quizzes
-            if 'L' not in section_lecture:
+            if current_day:  # Added safety check
+                duration_str = line.split(': ')[1]
+                duration = int(''.join(filter(str.isdigit, duration_str)))
+                current_day['duration'] = duration
+        elif ' - ' in line:
+            # Handle lecture/quiz lines
+            parts = line.split(' - ', 1)
+            if len(parts) != 2:
                 continue
                 
-            # Extract section and lecture numbers safely
-            try:
-                section_part, lecture_part = section_lecture.split('L')
-                section = int(section_part[1:])  # Remove 'S' and convert
-                lecture = int(lecture_part)
-            except ValueError:
-                continue  # Skip invalid formats
-                
-            # Extract day using regex pattern matching
-            day_match = re.search(r'$$Day (\d+)$$', line)
-            if not day_match:
-                continue  # Skip lines without valid Day marker
-            day = int(day_match.group(1))
-
-            lecture_data = {
-                'section': section,
-                'lecture': lecture,
-                'title': title,
-                'day': day
-            }
-            current_day['lectures'].append(lecture_data)
+            left_side, right_side = parts
+            lecture_info = left_side.split(' [')[0].strip()
+            
+            # Handle both uppercase and lowercase L
+            if 'l' in lecture_info.lower():
+                try:
+                    # Handle formats like S3L2 or Section3-L2
+                    section_lecture = lecture_info.replace('Section', 'S').replace('-', '')
+                    section_part, lecture_part = section_lecture.lower().split('l')
+                    
+                    # Extract section number
+                    section = int(section_part[1:])  # Remove 'S'
+                    # Extract lecture number
+                    lecture = int(lecture_part.split()[0])  # Handle any trailing text
+                    
+                    # Extract title from right side before duration
+                    title = right_side.split(' [')[0].strip()
+                    
+                    lecture_data = {
+                        'section': section,
+                        'lecture': lecture,
+                        'title': title,
+                        # Use current day's number instead of parsing again
+                        'day': current_day['day'] if current_day else 0
+                    }
+                    
+                    if current_day:
+                        current_day['lectures'].append(lecture_data)
+                        
+                except (ValueError, IndexError, AttributeError):
+                    # Skip lines that don't match the pattern
+                    continue
+            else:
+                # Handle description if not set yet
+                if current_day and current_day['description'] is None:
+                    current_day['description'] = right_side.split(' [')[0].strip()
         else:
-            if current_day and current_day['description'] is None:
-                current_day['description'] = line.strip()
+            # Capture multi-line descriptions
+            if current_day and current_day['description']:
+                current_day['description'] += "\n" + line
+            elif current_day:
+                current_day['description'] = line
 
-    if current_day:
+    if current_day:  # Add the last day
         events_data.append(current_day)
-        print(events_data)
 
     return events_data

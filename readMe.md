@@ -39,12 +39,15 @@ Before using this project, you need:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/100days-webdev-calendar.git
+   ```
    cd 100days-webdev-calendar
    Install required packages:
+   ```bash
    pip install ics pytz
+   ```
    Prepare your lecture.txt file (see File Structure )
    🖥️ Usage
-   ```
+   
 
 Prepare your lecture.txt: Create a text file following this format:
 Day 1
@@ -69,54 +72,63 @@ Follow the prompts:
   > Import the generated file:
   > Find webdev_journey.ics in your project folder
   > Import to your preferred calendar application
-  > 📂 File Structure
+  >
+  ### 📂 File Structure
 
-├── main.py # Main script
-├── cleandata.py # Data parsing module
-├── lecture.txt # Course content (sample included)
-├── webdev_journey.ics # Generated calendar file
-├── requirements.txt # Dependency list
-└── README.md # This documentation
+- ├── main.py # Main script
+- ├── cleandata.py # Data parsing module
+- ├── lecture.txt # Course content (sample included)
+-  webdev_journey.ics # Generated calendar file
+- ├── requirements.txt # Dependency list
+- └── README.md # This documentation
 🤝 Contributing
 
 We welcome contributions! Here's how to collaborate:
 Fork the Repository
 Click 'Fork' at top-right of GitHub repository page
 Clone Your Fork
+ ```bash
 git clone https://github.com/your-username/100days-webdev-calendar.git
+ ```
 Create a Feature Branch
+ ```bash
 git checkout -b feature/your-feature-name
+ ```
 Make Changes
 Follow existing code style
 Add comments for complex logic
 Update documentation when needed
 Commit Changes
+ ```bash
 git commit -m "feat: add new validation checks"
+ ```
 Use conventional commit messages:
 feat: for new features
 fix: for bug fixes
 docs: for documentation changes
 chore: for maintenance tasks
 Push to Your Fork
+ ```bash
 git push origin feature/your-feature-name
+ ```
 Create Pull Request
 Open PR from your branch to main repository's main branch
 Describe changes clearly in PR description
-🔮 Future Enhancements
 
+###🔮 Future Enhancements
 Planned improvements:
-Web interface for non-technical users
-Automatic progress synchronization
-Integration with learning platforms
-Mobile app notifications
-Progress visualization dashboard
-Multiple calendar export formats
-Collaborative learning features
+- Web interface for non-technical users
+- Automatic progress synchronization
+- Integration with learning platforms
+- Mobile app notifications
+- Progress visualization dashboard
+- Multiple calendar export formats
+- Collaborative learning features
 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 🙏 Acknowledgments
 
-ICS Python library team
-Python datetime and pytz maintainers
-Original 100DaysOfCode concept by Alexander Kallaway
+ - [ICS Python library](https://github.com/ics-py/ics-py)
+- Python datetime and pytz maintainers
+- [Original 100DaysOfCode concept by Alexander Kallaway](https://www.100daysofcode.com)

@@ -12,11 +12,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:-PT5M
 END:VALARM
-DESCRIPTION:\nStudent Notes:\n- [ ] S7L128 - Working with % Units & Creating a Top Navigation Bar\nNotes:\n\n- [ ] S7L129 - Finishing the Header\nNotes:\n\n- [ ] S7L130 - Introducing the 'Highlights' Section\nNotes:\n\n- [ ] S7L131 - Creating the HTML Code\nNotes:\n\n- [ ] S7L135 - Styling Text\nNotes:\n
-DTEND:20250316T045300Z
-DTSTART:20250316T040000Z
-SUMMARY:Day 17 of #100Webdevchallenge - S7L128 - Working with % Units & Creating a Top Navigation Bar
-UID:f484a115-4023-4df9-994b-0c174f671be8@f484.org
+DESCRIPTION:\nStudent Notes:\n- [ ] S11L221 - Adding the "script" HTML Element\nNotes:\n\n- [ ] S11L222 - Working with Values & Basic JavaScript Commands\nNotes:\n\n- [ ] S11L223 - Introducing Variables ("Data Containers")\nNotes:\n\n- [ ] S11L224 - A Closer Look At The JavaScript Syntax\nNotes:\n\n- [ ] S11L225 - A Second Variable & Practice Time!\nNotes:\n\n- [ ] S11L226 - Outsourcing JavaScript Code Into External Files\nNotes:\n\n- [ ] S11L227 - Introducing Arrays (Managing Lists Of Data)\nNotes:\n\n- [ ] S11L228 - Introducing Objects (Grouping Related Data)\nNotes:\n
+DTEND:20250329T044500Z
+DTSTART:20250329T040000Z
+SUMMARY:Day 30 of #100Webdevchallenge - S11L221 - Adding the "script" HTML Element
+UID:075aba93-dfa0-491b-b667-952577cd2ebe@075a.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -29,11 +29,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:-PT5M
 END:VALARM
-DESCRIPTION:\nStudent Notes:\n- [ ] S7L121 - Your Flexbox Challenge!\nNotes:\n\n- [ ] S7L122 - Adding Flexbox to our Project\nNotes:\n\n- [ ] S7L123 - Adding a Background Image\nNotes:\n\n- [ ] S7L124 - Creating a Container for the Hero-Content\nNotes:\n\n- [ ] S7L125 - Positioning Elements\nNotes:\n\n- [ ] S7L126 - Styling the Hero Content\nNotes:\n\n- [ ] S7L127 - Understanding Fixed & Absolute Positioning\nNotes:\n
-DTEND:20250315T044500Z
-DTSTART:20250315T040000Z
-SUMMARY:Day 16 of #100Webdevchallenge - S7L121 - Your Flexbox Challenge!
-UID:296e705c-edf7-4edd-a5a0-500756942338@296e.org
+DESCRIPTION:\nStudent Notes:\n- [ ] S10L211 - Your Challenge!\nNotes:\n\n- [ ] S10L212 - Challenge: Base Page Structure & Styling\nNotes:\n\n- [ ] S10 Quiz 4 - Learning Check: Web Forms\nNotes:\n\n- [ ] S10L213 - Challenge: First Set of Input Elements\nNotes:\n\n- [ ] S10L214 - Challenge: Adding Remaining Elements\nNotes:\n\n- [ ] S10L215 - Challenge: Submission & Validation\nNotes:\n\n- [ ] S10L216 - Challenge: Styling\nNotes:\n\n- [ ] S11L217 - Module Introduction\nNotes:\n\n- [ ] S11L218 - What is JavaScript & Why would we use it?\nNotes:\n\n- [ ] S11L219 - What You Will Learn In this Module\nNotes:\n\n- [ ] S11L220 - Introducing Values & Variables\nNotes:\n
+DTEND:20250328T045300Z
+DTSTART:20250328T040000Z
+SUMMARY:Day 29 of #100Webdevchallenge - S10L211 - Your Challenge!
+UID:550b9d76-5a1a-46ad-b697-e5b1cbf0ccd4@550b.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -46,44 +46,10 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:-PT5M
 END:VALARM
-DESCRIPTION:\nStudent Notes:\n- [ ] S7L136 - Understanding Parent-Child Margin Collapsing\nNotes:\n\n- [ ] S7L138 - The Next Step\nNotes:\n\n- [ ] S7L139 - Creating a Footer Section\nNotes:\n\n- [ ] S7L140 - Styling the Footer\nNotes:\n\n- [ ] S7L141 - Places Page - Overview & Preparations\nNotes:\n\n- [ ] S7L143 - Using 'position: static'\nNotes:\n
-DTEND:20250317T044200Z
-DTSTART:20250317T040000Z
-SUMMARY:Day 18 of #100Webdevchallenge - S7L136 - Understanding Parent-Child Margin Collapsing
-UID:c24175b2-03c4-4bd4-ae2b-bdab598f0a4d@c241.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT5M
-END:VALARM
-DESCRIPTION:\nStudent Notes:\n- [ ] S7L144 - Creating the Card Look\nNotes:\n\n- [ ] S7L145 - Understanding 'overflow' & Your Challenge!\nNotes:\n\n- [ ] S7L146 - Solving the Challenge\nNotes:\n\n- [ ] S7L147 - Creating all Cards\nNotes:\n\n- [ ] S7L148 - The CSS Grid - The Theory\nNotes:\n\n- [ ] S7L149 - Understanding the 'nth-type' Selector & 'grid-template-columns'\nNotes:\n
-DTEND:20250318T044800Z
-DTSTART:20250318T040000Z
-SUMMARY:Day 19 of #100Webdevchallenge - S7L144 - Creating the Card Look
-UID:7dd60dca-8747-40e4-8048-73b1b3e824b3@7dd6.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:-PT5M
-END:VALARM
-DESCRIPTION:\nStudent Notes:\n- [ ] S7L150 - Your Grid Challenge\nNotes:\n\n- [ ] S7L151 - Working with Unicode UTF-8\nNotes:\n\n- [ ] S7L152 - Finishing Touches\nNotes:\n\n- [ ] S7L153 - Module Summary\nNotes:\n\n- [ ] S7L154 - Optional: Diving Deeper Into 'position'\, Flexbox & the Grid\nNotes:\n\n- [ ] S8L155 - Module Introduction\nNotes:\n\n- [ ] S8L156 - Project Overview\nNotes:\n\n- [ ] S8L157 - Please Read: Optional Lectures\nNotes:\n\n- [ ] S8L158 - Optional: Your Challenge - Creating the HTML Structure\nNotes:\n\n- [ ] S8L159 - Optional: Challenge Solution - The HTML Structure\nNotes:\n
-DTEND:20250319T045000Z
-DTSTART:20250319T040000Z
-SUMMARY:Day 20 of #100Webdevchallenge - S7L150 - Your Grid Challenge
-UID:52d0c24a-47c8-41f7-873a-0052e58bf897@52d0.org
+DESCRIPTION:\nStudent Notes:\n- [ ] S11L221 - Adding the "script" HTML Element\nNotes:\n\n- [ ] S11L222 - Working with Values & Basic JavaScript Commands\nNotes:\n\n- [ ] S11L223 - Introducing Variables ("Data Containers")\nNotes:\n\n- [ ] S11L224 - A Closer Look At The JavaScript Syntax\nNotes:\n\n- [ ] S11L225 - A Second Variable & Practice Time!\nNotes:\n\n- [ ] S11L226 - Outsourcing JavaScript Code Into External Files\nNotes:\n\n- [ ] S11L227 - Introducing Arrays (Managing Lists Of Data)\nNotes:\n\n- [ ] S11L228 - Introducing Objects (Grouping Related Data)\nNotes:\n
+DTEND:20250329T044500Z
+DTSTART:20250329T040000Z
+SUMMARY:Day 30 of #100Webdevchallenge - S11L221 - Adding the "script" HTML Element
+UID:cc635276-ba94-42c2-9eec-937ada388f72@cc63.org
 END:VEVENT
 END:VCALENDAR

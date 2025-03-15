@@ -105,16 +105,10 @@ for event_data in events_data:
     event.begin = event_date
     event.end = event_end
 
-    # Build the description with a checklist for the lectures.
-    lectures_str = "\n".join(f"- [ ] {lecture}" for lecture in event_data["lectures"])
-    # Build the description with a checklist for the lectures.
-    lectures_str = "\n".join(f"- [ ] {lecture}" for lecture in event_data["lectures"])
     # Build the description with a checklist for the lectures and student notes
     lectures_str = "\nStudent Notes:\n" + "\n".join(f"- [ ] {lecture}\nNotes:\n" for lecture in event_data["lectures"])
     event.description = lectures_str
     
-    # Add two alarms: one at the event start and one 5 minutes before.
-    alarm_at_start = DisplayAlarm(trigger=timedelta(minutes=0))
     # Add two alarms: one at the event start and one 5 minutes before.
     alarm_at_start = DisplayAlarm(trigger=timedelta(minutes=0))
     alarm_five_before = DisplayAlarm(trigger=timedelta(minutes=-5))
